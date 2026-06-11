@@ -1,0 +1,16 @@
+{
+  "name": "曼城世界杯赛程",
+  "short_name": "City WC",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f4f8fb",
+  "theme_color": "#75b7e6",
+  "icons": [
+    {
+      "src": "assets/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="City World Cup Tracker">
+  <defs>
+    <linearGradient id="bg" x1="18" x2="112" y1="12" y2="118" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#75B7E6"/>
+      <stop offset="0.58" stop-color="#2F9D72"/>
+      <stop offset="1" stop-color="#172742"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="url(#bg)"/>
+  <path d="M22 32h84v64H22z" fill="none" stroke="#fff" stroke-width="5" opacity=".78"/>
+  <path d="M64 32v64M22 64h84" stroke="#fff" stroke-width="4" opacity=".5"/>
+  <circle cx="64" cy="64" r="16" fill="none" stroke="#fff" stroke-width="5" opacity=".82"/>
+  <circle cx="64" cy="64" r="7" fill="#fff"/>
+  <path d="M35 24h58" stroke="#fff" stroke-width="7" stroke-linecap="round"/>
+  <path d="M41 105h46" stroke="#F2B84B" stroke-width="7" stroke-linecap="round"/>
+</svg>

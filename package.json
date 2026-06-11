@@ -1,0 +1,11 @@
+{
+  "name": "city-worldcup-tracker-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "update:data": "node scripts/update-static-data.js docs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

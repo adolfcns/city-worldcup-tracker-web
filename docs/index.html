@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#75b7e6" />
+    <title>曼城世界杯赛程</title>
+    <link rel="manifest" href="manifest.webmanifest" />
+    <link rel="icon" href="assets/app-icon.svg" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="hero">
+        <div class="hero__pitch" aria-hidden="true"></div>
+        <div class="hero__top">
+          <img class="app-mark" src="assets/app-icon.svg" alt="" />
+          <div>
+            <p class="eyebrow">City Watch</p>
+            <h1>曼城世界杯赛程</h1>
+          </div>
+        </div>
+        <div class="hero__stats" id="summaryStats">
+          <div>
+            <span>球员</span>
+            <strong>--</strong>
+          </div>
+          <div>
+            <span>确认相关</span>
+            <strong>--</strong>
+          </div>
+          <div>
+            <span>淘汰赛占位</span>
+            <strong>--</strong>
+          </div>
+        </div>
+        <div class="hero__next" id="nextMatch">正在同步赛程</div>
+      </header>
+
+      <main>
+        <section class="control-band">
+          <nav class="tabs" aria-label="主导航">
+            <button class="tab is-active" data-tab="schedule">赛程</button>
+            <button class="tab" data-tab="players">球员</button>
+            <button class="tab" data-tab="knockout">淘汰赛</button>
+            <button class="tab" data-tab="data">数据</button>
+          </nav>
+
+          <div class="toolbar">
+            <label class="search-box">
+              <span>搜索</span>
+              <input id="searchInput" type="search" placeholder="球员 / 国家队 / 城市" autocomplete="off" />
+            </label>
+            <button class="refresh-button" id="refreshButton" type="button">刷新</button>
+          </div>
+
+          <div class="filter-row" id="quickFilters">
+            <button class="chip is-active" data-filter="tracked">曼城相关</button>
+            <button class="chip" data-filter="all">全部赛程</button>
+            <button class="chip" data-filter="departures">离队关注</button>
+            <button class="chip" data-filter="today">今天</button>
+          </div>
+        </section>
+
+        <section class="panel is-active" id="schedulePanel">
+          <div class="section-heading">
+            <h2>重点赛程</h2>
+            <span id="scheduleCount">-- 场</span>
+          </div>
+          <div class="match-list" id="matchList"></div>
+        </section>
+
+        <section class="panel" id="playersPanel">
+          <div class="section-heading">
+            <h2>球员名单</h2>
+            <span id="playerCount">-- 人</span>
+          </div>
+          <div class="player-grid" id="playerGrid"></div>
+        </section>
+
+        <section class="panel" id="knockoutPanel">
+          <div class="section-heading">
+            <h2>淘汰赛路径</h2>
+            <span id="knockoutCount">-- 场</span>
+          </div>
+          <div class="match-list compact" id="knockoutList"></div>
+        </section>
+
+        <section class="panel" id="dataPanel">
+          <div class="section-heading">
+            <h2>球员评分</h2>
+            <span id="performanceUpdatedAt">--</span>
+          </div>
+          <div class="performance-panel">
+            <div class="rating-toolbar">
+              <label class="match-picker">
+                <span>比赛</span>
+                <select id="performanceMatchSelect" aria-label="选择比赛"></select>
+              </label>
+              <div class="rating-source" id="performanceSource">等待同步</div>
+            </div>
+            <div class="performance-list" id="performanceList"></div>
+          </div>
+
+          <div class="section-heading data-source-heading">
+            <h2>数据状态</h2>
+            <span id="updatedAt">--</span>
+          </div>
+          <div class="data-grid" id="sourceList"></div>
+        </section>
+      </main>
+    </div>
+
+    <template id="emptyTemplate">
+      <div class="empty-state">
+        <strong>没有匹配赛程</strong>
+        <span>换一个筛选条件试试</span>
+      </div>
+    </template>
+
+    <script src="app.js" type="module"></script>
+  </body>
+</html>

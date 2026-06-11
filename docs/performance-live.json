@@ -1,0 +1,13 @@
+{
+  "cachedAt": 1781183227521,
+  "generatedAt": "2026-06-11T13:07:07.521Z",
+  "cacheHit": false,
+  "rows": [],
+  "sourceStatus": [
+    {
+      "name": "赛后球员详情",
+      "ok": true,
+      "message": "公开网页会定时更新赛程；球员评分和上场时间会在赛后数据源可用后接入。"
+    }
+  ]
+}
