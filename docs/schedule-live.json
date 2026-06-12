@@ -1,6 +1,6 @@
 {
-  "cachedAt": 1781234719516,
-  "generatedAt": "2026-06-12T03:25:19.516Z",
+  "cachedAt": 1781251569965,
+  "generatedAt": "2026-06-12T08:06:09.965Z",
   "cacheHit": false,
   "sources": [
     {
@@ -34,7 +34,7 @@
       "group": "A",
       "city": "Mexico City",
       "venue": "azteca",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "mex",
         "code": "MEX",
@@ -72,7 +72,7 @@
       "group": "A",
       "city": "Guadalajara",
       "venue": "guadalajara",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "kor",
         "code": "KOR",
