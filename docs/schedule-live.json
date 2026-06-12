@@ -1,14 +1,14 @@
 {
-  "cachedAt": 1781275042341,
-  "generatedAt": "2026-06-12T14:37:22.341Z",
+  "cachedAt": 1781285382410,
+  "generatedAt": "2026-06-12T17:29:42.410Z",
   "cacheHit": false,
   "sources": [
     {
       "name": "GoalPulse",
       "ok": true,
-      "version": "2026-06-12",
-      "lastReviewed": "2026-06-12",
-      "lastModified": "Fri, 12 Jun 2026 00:00:00 GMT"
+      "version": "2026-06-13",
+      "lastReviewed": "2026-06-13",
+      "lastModified": "Sat, 13 Jun 2026 00:00:00 GMT"
     },
     {
       "name": "openfootball",
