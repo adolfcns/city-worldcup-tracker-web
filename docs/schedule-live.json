@@ -1,6 +1,6 @@
 {
-  "cachedAt": 1781473621678,
-  "generatedAt": "2026-06-14T21:47:01.678Z",
+  "cachedAt": 1781477855548,
+  "generatedAt": "2026-06-14T22:57:35.548Z",
   "cacheHit": false,
   "sources": [
     {
@@ -376,7 +376,7 @@
       "group": "F",
       "city": "Arlington",
       "venue": "cowboys",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "ned",
         "code": "NED",
