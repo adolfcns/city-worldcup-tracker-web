@@ -1,14 +1,14 @@
 {
-  "cachedAt": 1781403024862,
-  "generatedAt": "2026-06-14T02:10:24.862Z",
+  "cachedAt": 1781420474663,
+  "generatedAt": "2026-06-14T07:01:14.663Z",
   "cacheHit": false,
   "sources": [
     {
       "name": "GoalPulse",
       "ok": true,
-      "version": "2026-06-13",
-      "lastReviewed": "2026-06-13",
-      "lastModified": "Sat, 13 Jun 2026 00:00:00 GMT"
+      "version": "2026-06-14",
+      "lastReviewed": "2026-06-14",
+      "lastModified": "Sun, 14 Jun 2026 00:00:00 GMT"
     },
     {
       "name": "openfootball",
@@ -186,7 +186,7 @@
       "group": "B",
       "city": "Santa Clara",
       "venue": "levis",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "qat",
         "code": "QAT",
@@ -224,7 +224,7 @@
       "group": "C",
       "city": "East Rutherford",
       "venue": "metlife",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "bra",
         "code": "BRA",
@@ -262,7 +262,7 @@
       "group": "C",
       "city": "Foxborough",
       "venue": "gillette",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "hai",
         "code": "HAI",
@@ -300,7 +300,7 @@
       "group": "D",
       "city": "Vancouver",
       "venue": "bc_place",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "aus",
         "code": "AUS",
