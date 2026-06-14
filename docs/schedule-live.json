@@ -1,6 +1,6 @@
 {
-  "cachedAt": 1781467360333,
-  "generatedAt": "2026-06-14T20:02:40.333Z",
+  "cachedAt": 1781473621678,
+  "generatedAt": "2026-06-14T21:47:01.678Z",
   "cacheHit": false,
   "sources": [
     {
@@ -338,7 +338,7 @@
       "group": "E",
       "city": "Houston",
       "venue": "nrg",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "ger",
         "code": "GER",
