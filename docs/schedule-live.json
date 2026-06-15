@@ -1,6 +1,6 @@
 {
-  "cachedAt": 1781523530744,
-  "generatedAt": "2026-06-15T11:38:50.744Z",
+  "cachedAt": 1781542130147,
+  "generatedAt": "2026-06-15T16:48:50.147Z",
   "cacheHit": false,
   "sources": [
     {
@@ -464,7 +464,7 @@
       "group": "E",
       "city": "Philadelphia",
       "venue": "lincoln",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "civ",
         "code": "CIV",
@@ -502,7 +502,7 @@
       "group": "F",
       "city": "Monterrey",
       "venue": "monterrey",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "swe",
         "code": "SWE",
