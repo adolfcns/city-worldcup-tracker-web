@@ -1,6 +1,6 @@
 {
-  "cachedAt": 1781660755688,
-  "generatedAt": "2026-06-17T01:45:55.688Z",
+  "cachedAt": 1781679394742,
+  "generatedAt": "2026-06-17T06:56:34.742Z",
   "cacheHit": false,
   "sources": [
     {
@@ -52,7 +52,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537327,
+      "apiId": 1489369,
       "url": "https://goalpulse.io/zh/matches/mex-vs-rsa-m001",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -90,7 +90,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537328,
+      "apiId": 1538999,
       "url": "https://goalpulse.io/zh/matches/kor-vs-cze-m002",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -128,7 +128,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537333,
+      "apiId": 1539000,
       "url": "https://goalpulse.io/zh/matches/can-vs-bih-m003",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -166,7 +166,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537345,
+      "apiId": 1489370,
       "url": "https://goalpulse.io/zh/matches/usa-vs-par-m004",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -204,7 +204,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537334,
+      "apiId": 1489373,
       "url": "https://goalpulse.io/zh/matches/qat-vs-sui-m005",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -242,7 +242,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537339,
+      "apiId": 1489371,
       "url": "https://goalpulse.io/zh/matches/bra-vs-mar-m006",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -280,7 +280,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537340,
+      "apiId": 1489372,
       "url": "https://goalpulse.io/zh/matches/hai-vs-sco-m007",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -318,7 +318,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537346,
+      "apiId": 1539001,
       "url": "https://goalpulse.io/zh/matches/aus-vs-tur-m008",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -356,7 +356,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537351,
+      "apiId": 1489374,
       "url": "https://goalpulse.io/zh/matches/ger-vs-cuw-m009",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -394,7 +394,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537357,
+      "apiId": 1489376,
       "url": "https://goalpulse.io/zh/matches/ned-vs-jpn-m010",
       "fallbackSource": "openfootball",
       "homePlayers": [
@@ -482,7 +482,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537352,
+      "apiId": 1489375,
       "url": "https://goalpulse.io/zh/matches/civ-vs-ecu-m011",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -520,7 +520,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537358,
+      "apiId": 1539002,
       "url": "https://goalpulse.io/zh/matches/swe-vs-tun-m012",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -558,7 +558,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537369,
+      "apiId": 1489380,
       "url": "https://goalpulse.io/zh/matches/esp-vs-cpv-m013",
       "fallbackSource": "openfootball",
       "homePlayers": [
@@ -622,7 +622,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537363,
+      "apiId": 1489377,
       "url": "https://goalpulse.io/zh/matches/bel-vs-egy-m014",
       "fallbackSource": "openfootball",
       "homePlayers": [
@@ -735,7 +735,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537370,
+      "apiId": 1489379,
       "url": "https://goalpulse.io/zh/matches/ksa-vs-ury-m015",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -773,7 +773,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537364,
+      "apiId": 1489378,
       "url": "https://goalpulse.io/zh/matches/irn-vs-nzl-m016",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -793,7 +793,7 @@
       "group": "I",
       "city": "East Rutherford",
       "venue": "metlife",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "fra",
         "code": "FRA",
@@ -811,7 +811,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537391,
+      "apiId": 1489383,
       "url": "https://goalpulse.io/zh/matches/fra-vs-sen-m017",
       "fallbackSource": "openfootball",
       "homePlayers": [
@@ -857,7 +857,7 @@
       "group": "I",
       "city": "Foxborough",
       "venue": "gillette",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "irq",
         "code": "IRQ",
@@ -875,7 +875,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537392,
+      "apiId": 1539016,
       "url": "https://goalpulse.io/zh/matches/irq-vs-nor-m018",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -921,7 +921,7 @@
       "group": "J",
       "city": "Kansas City",
       "venue": "arrowhead",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "arg",
         "code": "ARG",
@@ -939,7 +939,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537397,
+      "apiId": 1489381,
       "url": "https://goalpulse.io/zh/matches/arg-vs-alg-m019",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -1003,7 +1003,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537398,
+      "apiId": 1489382,
       "url": "https://goalpulse.io/zh/matches/aut-vs-jor-m020",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -1041,7 +1041,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537403,
+      "apiId": 1539003,
       "url": "https://goalpulse.io/zh/matches/por-vs-cod-m021",
       "fallbackSource": "openfootball",
       "homePlayers": [
@@ -1153,7 +1153,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537409,
+      "apiId": 1489384,
       "url": "https://goalpulse.io/zh/matches/eng-vs-cro-m022",
       "fallbackSource": "openfootball",
       "homePlayers": [
@@ -1338,7 +1338,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537410,
+      "apiId": 1489385,
       "url": "https://goalpulse.io/zh/matches/gha-vs-pan-m023",
       "fallbackSource": "openfootball",
       "homePlayers": [
@@ -1402,7 +1402,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537404,
+      "apiId": 1489386,
       "url": "https://goalpulse.io/zh/matches/uzb-vs-col-m024",
       "fallbackSource": "openfootball",
       "homePlayers": [
@@ -1466,7 +1466,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537329,
+      "apiId": 1539004,
       "url": "https://goalpulse.io/zh/matches/cze-vs-rsa-m025",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -1504,7 +1504,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537335,
+      "apiId": 1539005,
       "url": "https://goalpulse.io/zh/matches/sui-vs-bih-m026",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -1542,7 +1542,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537336,
+      "apiId": 1489387,
       "url": "https://goalpulse.io/zh/matches/can-vs-qat-m027",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -1580,7 +1580,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537330,
+      "apiId": 1489388,
       "url": "https://goalpulse.io/zh/matches/mex-vs-kor-m028",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -1618,7 +1618,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537348,
+      "apiId": 1489391,
       "url": "https://goalpulse.io/zh/matches/usa-vs-aus-m029",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -1656,7 +1656,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537342,
+      "apiId": 1489390,
       "url": "https://goalpulse.io/zh/matches/sco-vs-mar-m030",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -1694,7 +1694,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537341,
+      "apiId": 1489389,
       "url": "https://goalpulse.io/zh/matches/bra-vs-hai-m031",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -1732,7 +1732,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537347,
+      "apiId": 1539006,
       "url": "https://goalpulse.io/zh/matches/tur-vs-par-m032",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -1770,7 +1770,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537359,
+      "apiId": 1539007,
       "url": "https://goalpulse.io/zh/matches/ned-vs-swe-m033",
       "fallbackSource": "openfootball",
       "homePlayers": [
@@ -1858,7 +1858,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537353,
+      "apiId": 1489393,
       "url": "https://goalpulse.io/zh/matches/ger-vs-civ-m034",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -1896,7 +1896,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537354,
+      "apiId": 1489392,
       "url": "https://goalpulse.io/zh/matches/ecu-vs-cuw-m035",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -1934,7 +1934,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537360,
+      "apiId": 1489394,
       "url": "https://goalpulse.io/zh/matches/tun-vs-jpn-m036",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -1972,7 +1972,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537371,
+      "apiId": 1489397,
       "url": "https://goalpulse.io/zh/matches/esp-vs-ksa-m037",
       "fallbackSource": "openfootball",
       "homePlayers": [
@@ -2036,7 +2036,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537365,
+      "apiId": 1489395,
       "url": "https://goalpulse.io/zh/matches/bel-vs-irn-m038",
       "fallbackSource": "openfootball",
       "homePlayers": [
@@ -2124,7 +2124,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537372,
+      "apiId": 1489398,
       "url": "https://goalpulse.io/zh/matches/ury-vs-cpv-m039",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -2162,7 +2162,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537366,
+      "apiId": 1489396,
       "url": "https://goalpulse.io/zh/matches/nzl-vs-egy-m040",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -2226,7 +2226,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537399,
+      "apiId": 1489399,
       "url": "https://goalpulse.io/zh/matches/arg-vs-aut-m041",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -2264,7 +2264,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537393,
+      "apiId": 1539017,
       "url": "https://goalpulse.io/zh/matches/fra-vs-irq-m042",
       "fallbackSource": "openfootball",
       "homePlayers": [
@@ -2328,7 +2328,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537394,
+      "apiId": 1489401,
       "url": "https://goalpulse.io/zh/matches/nor-vs-sen-m043",
       "fallbackSource": "openfootball",
       "homePlayers": [
@@ -2392,7 +2392,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537400,
+      "apiId": 1489400,
       "url": "https://goalpulse.io/zh/matches/jor-vs-alg-m044",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -2456,7 +2456,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537405,
+      "apiId": 1489404,
       "url": "https://goalpulse.io/zh/matches/por-vs-uzb-m045",
       "fallbackSource": "openfootball",
       "homePlayers": [
@@ -2593,7 +2593,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537411,
+      "apiId": 1489402,
       "url": "https://goalpulse.io/zh/matches/eng-vs-gha-m046",
       "fallbackSource": "openfootball",
       "homePlayers": [
@@ -2754,7 +2754,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537412,
+      "apiId": 1489403,
       "url": "https://goalpulse.io/zh/matches/pan-vs-cro-m047",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -2842,7 +2842,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537406,
+      "apiId": 1539008,
       "url": "https://goalpulse.io/zh/matches/col-vs-cod-m048",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -2880,7 +2880,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537337,
+      "apiId": 1489408,
       "url": "https://goalpulse.io/zh/matches/sui-vs-can-m049",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -2918,7 +2918,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537338,
+      "apiId": 1539009,
       "url": "https://goalpulse.io/zh/matches/bih-vs-qat-m050",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -2956,7 +2956,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537343,
+      "apiId": 1489406,
       "url": "https://goalpulse.io/zh/matches/sco-vs-bra-m051",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -2994,7 +2994,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537344,
+      "apiId": 1489405,
       "url": "https://goalpulse.io/zh/matches/mar-vs-hai-m052",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -3032,7 +3032,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537331,
+      "apiId": 1539010,
       "url": "https://goalpulse.io/zh/matches/cze-vs-mex-m053",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -3070,7 +3070,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537332,
+      "apiId": 1489407,
       "url": "https://goalpulse.io/zh/matches/rsa-vs-kor-m054",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -3108,7 +3108,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537355,
+      "apiId": 1489410,
       "url": "https://goalpulse.io/zh/matches/ecu-vs-ger-m055",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -3146,7 +3146,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537356,
+      "apiId": 1489409,
       "url": "https://goalpulse.io/zh/matches/cuw-vs-civ-m056",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -3184,7 +3184,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537361,
+      "apiId": 1489412,
       "url": "https://goalpulse.io/zh/matches/tun-vs-ned-m057",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -3272,7 +3272,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537362,
+      "apiId": 1539011,
       "url": "https://goalpulse.io/zh/matches/jpn-vs-swe-m058",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -3310,7 +3310,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537349,
+      "apiId": 1539012,
       "url": "https://goalpulse.io/zh/matches/tur-vs-usa-m059",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -3348,7 +3348,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537350,
+      "apiId": 1489411,
       "url": "https://goalpulse.io/zh/matches/par-vs-aus-m060",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -3386,7 +3386,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537395,
+      "apiId": 1489416,
       "url": "https://goalpulse.io/zh/matches/nor-vs-fra-m061",
       "fallbackSource": "openfootball",
       "homePlayers": [
@@ -3475,7 +3475,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537396,
+      "apiId": 1539074,
       "url": "https://goalpulse.io/zh/matches/sen-vs-irq-m062",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -3513,7 +3513,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537373,
+      "apiId": 1489417,
       "url": "https://goalpulse.io/zh/matches/ury-vs-esp-m063",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -3577,7 +3577,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537374,
+      "apiId": 1489413,
       "url": "https://goalpulse.io/zh/matches/cpv-vs-ksa-m064",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -3615,7 +3615,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537367,
+      "apiId": 1489415,
       "url": "https://goalpulse.io/zh/matches/nzl-vs-bel-m065",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -3703,7 +3703,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537368,
+      "apiId": 1489414,
       "url": "https://goalpulse.io/zh/matches/egy-vs-irn-m066",
       "fallbackSource": "openfootball",
       "homePlayers": [
@@ -3767,7 +3767,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537413,
+      "apiId": 1489422,
       "url": "https://goalpulse.io/zh/matches/pan-vs-eng-m067",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -3903,7 +3903,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537414,
+      "apiId": 1489420,
       "url": "https://goalpulse.io/zh/matches/cro-vs-gha-m068",
       "fallbackSource": "openfootball",
       "homePlayers": [
@@ -4016,7 +4016,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537407,
+      "apiId": 1489419,
       "url": "https://goalpulse.io/zh/matches/col-vs-por-m069",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -4128,7 +4128,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537408,
+      "apiId": 1539013,
       "url": "https://goalpulse.io/zh/matches/cod-vs-uzb-m070",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -4192,7 +4192,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537401,
+      "apiId": 1489421,
       "url": "https://goalpulse.io/zh/matches/jor-vs-arg-m071",
       "fallbackSource": "openfootball",
       "homePlayers": [],
@@ -4230,7 +4230,7 @@
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537402,
+      "apiId": 1489418,
       "url": "https://goalpulse.io/zh/matches/alg-vs-aut-m072",
       "fallbackSource": "openfootball",
       "homePlayers": [
