@@ -1,6 +1,6 @@
 {
-  "cachedAt": 1781679394742,
-  "generatedAt": "2026-06-17T06:56:34.742Z",
+  "cachedAt": 1781695695696,
+  "generatedAt": "2026-06-17T11:28:15.696Z",
   "cacheHit": false,
   "sources": [
     {
@@ -985,7 +985,7 @@
       "group": "J",
       "city": "Santa Clara",
       "venue": "levis",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "aut",
         "code": "AUT",
