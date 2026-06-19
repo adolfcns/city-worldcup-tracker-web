@@ -1,6 +1,6 @@
 {
-  "cachedAt": 1781827694147,
-  "generatedAt": "2026-06-19T00:08:14.147Z",
+  "cachedAt": 1781847037489,
+  "generatedAt": "2026-06-19T05:30:37.489Z",
   "cacheHit": false,
   "sources": [
     {
@@ -1384,7 +1384,7 @@
       "group": "K",
       "city": "Mexico City",
       "venue": "azteca",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "uzb",
         "code": "UZB",
@@ -1448,7 +1448,7 @@
       "group": "A",
       "city": "Atlanta",
       "venue": "mercedes_benz",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "cze",
         "code": "CZE",
@@ -1486,7 +1486,7 @@
       "group": "B",
       "city": "Inglewood",
       "venue": "sofi",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "sui",
         "code": "SUI",
@@ -1524,7 +1524,7 @@
       "group": "B",
       "city": "Vancouver",
       "venue": "bc_place",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "can",
         "code": "CAN",
@@ -1562,7 +1562,7 @@
       "group": "A",
       "city": "Guadalajara",
       "venue": "guadalajara",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "mex",
         "code": "MEX",
