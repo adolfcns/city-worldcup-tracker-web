@@ -1,14 +1,14 @@
 {
-  "cachedAt": 1781922480476,
-  "generatedAt": "2026-06-20T02:28:00.476Z",
+  "cachedAt": 1781937925313,
+  "generatedAt": "2026-06-20T06:45:25.313Z",
   "cacheHit": false,
   "sources": [
     {
       "name": "GoalPulse",
       "ok": true,
-      "version": "2026-06-15",
-      "lastReviewed": "2026-06-15",
-      "lastModified": "Mon, 15 Jun 2026 00:00:00 GMT"
+      "version": "2026-06-19",
+      "lastReviewed": "2026-06-19",
+      "lastModified": "Fri, 19 Jun 2026 00:00:00 GMT"
     },
     {
       "name": "openfootball",
@@ -1600,7 +1600,7 @@
       "group": "D",
       "city": "Seattle",
       "venue": "seattle",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "usa",
         "code": "USA",
@@ -1638,7 +1638,7 @@
       "group": "C",
       "city": "Foxborough",
       "venue": "gillette",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "sco",
         "code": "SCO",
@@ -1676,7 +1676,7 @@
       "group": "C",
       "city": "Philadelphia",
       "venue": "lincoln",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "bra",
         "code": "BRA",
@@ -1714,7 +1714,7 @@
       "group": "D",
       "city": "Santa Clara",
       "venue": "levis",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "tur",
         "code": "TUR",
