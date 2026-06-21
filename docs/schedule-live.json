@@ -1,6 +1,6 @@
 {
-  "cachedAt": 1782028695575,
-  "generatedAt": "2026-06-21T07:58:15.575Z",
+  "cachedAt": 1782040404991,
+  "generatedAt": "2026-06-21T11:13:24.991Z",
   "cacheHit": false,
   "sources": [
     {
@@ -1752,7 +1752,7 @@
       "group": "F",
       "city": "Houston",
       "venue": "nrg",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "ned",
         "code": "NED",
@@ -1840,7 +1840,7 @@
       "group": "E",
       "city": "Toronto",
       "venue": "bmo",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "ger",
         "code": "GER",
@@ -1878,7 +1878,7 @@
       "group": "E",
       "city": "Kansas City",
       "venue": "arrowhead",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "ecu",
         "code": "ECU",
@@ -1916,7 +1916,7 @@
       "group": "F",
       "city": "Monterrey",
       "venue": "monterrey",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "tun",
         "code": "TUN",
