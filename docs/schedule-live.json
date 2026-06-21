@@ -1,14 +1,14 @@
 {
-  "cachedAt": 1782065898993,
-  "generatedAt": "2026-06-21T18:18:18.993Z",
+  "cachedAt": 1782072539088,
+  "generatedAt": "2026-06-21T20:08:59.088Z",
   "cacheHit": false,
   "sources": [
     {
       "name": "GoalPulse",
       "ok": true,
-      "version": "2026-06-20",
-      "lastReviewed": "2026-06-20",
-      "lastModified": "Sat, 20 Jun 2026 00:00:00 GMT"
+      "version": "2026-06-22",
+      "lastReviewed": "2026-06-22",
+      "lastModified": "Mon, 22 Jun 2026 00:00:00 GMT"
     },
     {
       "name": "openfootball",
@@ -1954,7 +1954,7 @@
       "group": "H",
       "city": "Atlanta",
       "venue": "mercedes_benz",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "esp",
         "code": "ESP",
