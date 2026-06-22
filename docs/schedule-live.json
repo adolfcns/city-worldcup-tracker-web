@@ -1,6 +1,6 @@
 {
-  "cachedAt": 1782127675966,
-  "generatedAt": "2026-06-22T11:27:55.966Z",
+  "cachedAt": 1782144602901,
+  "generatedAt": "2026-06-22T16:10:02.901Z",
   "cacheHit": false,
   "sources": [
     {
@@ -2018,7 +2018,7 @@
       "group": "G",
       "city": "Inglewood",
       "venue": "sofi",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "bel",
         "code": "BEL",
@@ -2106,7 +2106,7 @@
       "group": "H",
       "city": "Miami Gardens",
       "venue": "hardrock",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "ury",
         "code": "URY",
@@ -2144,7 +2144,7 @@
       "group": "G",
       "city": "Vancouver",
       "venue": "bc_place",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "nzl",
         "code": "NZL",
@@ -4316,12 +4316,12 @@
       "venue": "gillette",
       "status": "placeholder",
       "homeTeam": {
-        "id": "",
-        "code": "",
-        "name": "1E",
-        "nameZh": "1E",
-        "group": "",
-        "placeholder": true
+        "id": "ger",
+        "code": "GER",
+        "name": "Germany",
+        "nameZh": "德国",
+        "group": "E",
+        "placeholder": false
       },
       "awayTeam": {
         "id": "",
@@ -4703,12 +4703,12 @@
       "venue": "azteca",
       "status": "placeholder",
       "homeTeam": {
-        "id": "",
-        "code": "",
-        "name": "1A",
-        "nameZh": "1A",
-        "group": "",
-        "placeholder": true
+        "id": "mex",
+        "code": "MEX",
+        "name": "Mexico",
+        "nameZh": "墨西哥",
+        "group": "A",
+        "placeholder": false
       },
       "awayTeam": {
         "id": "",
@@ -5023,8 +5023,8 @@
       "homeTeam": {
         "id": "",
         "code": "",
-        "name": "1D",
-        "nameZh": "1D",
+        "name": "USA",
+        "nameZh": "USA",
         "group": "",
         "placeholder": true
       },
