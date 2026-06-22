@@ -1,6 +1,6 @@
 {
-  "cachedAt": 1782165210617,
-  "generatedAt": "2026-06-22T21:53:30.617Z",
+  "cachedAt": 1782169785028,
+  "generatedAt": "2026-06-22T23:09:45.028Z",
   "cacheHit": false,
   "sources": [
     {
@@ -2208,7 +2208,7 @@
       "group": "J",
       "city": "Arlington",
       "venue": "cowboys",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "arg",
         "code": "ARG",
