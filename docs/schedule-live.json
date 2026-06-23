@@ -1,14 +1,14 @@
 {
-  "cachedAt": 1782252795279,
-  "generatedAt": "2026-06-23T22:13:15.279Z",
+  "cachedAt": 1782257610338,
+  "generatedAt": "2026-06-23T23:33:30.338Z",
   "cacheHit": false,
   "sources": [
     {
       "name": "GoalPulse",
       "ok": true,
-      "version": "2026-06-22",
-      "lastReviewed": "2026-06-22",
-      "lastModified": "Mon, 22 Jun 2026 00:00:00 GMT"
+      "version": "2026-06-24",
+      "lastReviewed": "2026-06-24",
+      "lastModified": "Wed, 24 Jun 2026 00:00:00 GMT"
     },
     {
       "name": "openfootball",
@@ -2374,7 +2374,7 @@
       "group": "J",
       "city": "Santa Clara",
       "venue": "levis",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "jor",
         "code": "JOR",
@@ -2438,7 +2438,7 @@
       "group": "K",
       "city": "Houston",
       "venue": "nrg",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "por",
         "code": "POR",
@@ -2575,7 +2575,7 @@
       "group": "L",
       "city": "Foxborough",
       "venue": "gillette",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "eng",
         "code": "ENG",
