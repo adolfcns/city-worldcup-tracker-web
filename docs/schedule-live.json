@@ -1,6 +1,6 @@
 {
-  "cachedAt": 1782178025808,
-  "generatedAt": "2026-06-23T01:27:05.808Z",
+  "cachedAt": 1782192937213,
+  "generatedAt": "2026-06-23T05:35:37.213Z",
   "cacheHit": false,
   "sources": [
     {
@@ -2246,7 +2246,7 @@
       "group": "I",
       "city": "Philadelphia",
       "venue": "lincoln",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "fra",
         "code": "FRA",
@@ -2310,7 +2310,7 @@
       "group": "I",
       "city": "East Rutherford",
       "venue": "metlife",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "nor",
         "code": "NOR",
