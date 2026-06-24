@@ -1,6 +1,6 @@
 {
-  "cachedAt": 1782257610338,
-  "generatedAt": "2026-06-23T23:33:30.338Z",
+  "cachedAt": 1782266069500,
+  "generatedAt": "2026-06-24T01:54:29.500Z",
   "cacheHit": false,
   "sources": [
     {
@@ -2736,7 +2736,7 @@
       "group": "L",
       "city": "Toronto",
       "venue": "bmo",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "pan",
         "code": "PAN",
