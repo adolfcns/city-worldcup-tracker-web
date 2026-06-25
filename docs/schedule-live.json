@@ -1,6 +1,6 @@
 {
-  "cachedAt": 1782394288571,
-  "generatedAt": "2026-06-25T13:31:28.571Z",
+  "cachedAt": 1782403976665,
+  "generatedAt": "2026-06-25T16:12:56.665Z",
   "cacheHit": false,
   "sources": [
     {
@@ -4278,20 +4278,20 @@
       "venue": "sofi",
       "status": "placeholder",
       "homeTeam": {
-        "id": "",
-        "code": "",
-        "name": "2A",
-        "nameZh": "2A",
-        "group": "",
-        "placeholder": true
+        "id": "rsa",
+        "code": "RSA",
+        "name": "South Africa",
+        "nameZh": "南非",
+        "group": "A",
+        "placeholder": false
       },
       "awayTeam": {
-        "id": "",
-        "code": "",
-        "name": "2B",
-        "nameZh": "2B",
-        "group": "",
-        "placeholder": true
+        "id": "can",
+        "code": "CAN",
+        "name": "Canada",
+        "nameZh": "加拿大",
+        "group": "B",
+        "placeholder": false
       },
       "source": "GoalPulse",
       "apiId": 537417,
@@ -4303,7 +4303,7 @@
       "potentialPlayers": [],
       "isTracked": false,
       "isPotentialTracked": false,
-      "hasPlaceholder": true
+      "hasPlaceholder": false
     },
     {
       "id": "m074",
@@ -4387,12 +4387,12 @@
         "placeholder": true
       },
       "awayTeam": {
-        "id": "",
-        "code": "",
-        "name": "2C",
-        "nameZh": "2C",
-        "group": "",
-        "placeholder": true
+        "id": "mar",
+        "code": "MAR",
+        "name": "Morocco",
+        "nameZh": "摩洛哥",
+        "group": "C",
+        "placeholder": false
       },
       "source": "GoalPulse",
       "apiId": 537415,
@@ -4442,12 +4442,12 @@
       "venue": "nrg",
       "status": "placeholder",
       "homeTeam": {
-        "id": "",
-        "code": "",
-        "name": "1C",
-        "nameZh": "1C",
-        "group": "",
-        "placeholder": true
+        "id": "bra",
+        "code": "BRA",
+        "name": "Brazil",
+        "nameZh": "巴西",
+        "group": "C",
+        "placeholder": false
       },
       "awayTeam": {
         "id": "",
@@ -5477,12 +5477,12 @@
       "venue": "bc_place",
       "status": "placeholder",
       "homeTeam": {
-        "id": "",
-        "code": "",
-        "name": "1B",
-        "nameZh": "1B",
-        "group": "",
-        "placeholder": true
+        "id": "sui",
+        "code": "SUI",
+        "name": "Switzerland",
+        "nameZh": "瑞士",
+        "group": "B",
+        "placeholder": false
       },
       "awayTeam": {
         "id": "",
