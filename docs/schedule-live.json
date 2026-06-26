@@ -1,6 +1,6 @@
 {
-  "cachedAt": 1782475526378,
-  "generatedAt": "2026-06-26T12:05:26.378Z",
+  "cachedAt": 1782486422102,
+  "generatedAt": "2026-06-26T15:07:02.102Z",
   "cacheHit": false,
   "sources": [
     {
@@ -17,8 +17,8 @@
   ],
   "counts": {
     "totalMatches": 104,
-    "trackedConfirmed": 30,
-    "trackedPotential": 15,
+    "trackedConfirmed": 31,
+    "trackedPotential": 13,
     "players": 20
   },
   "playersMeta": {
@@ -4379,12 +4379,12 @@
       "venue": "monterrey",
       "status": "placeholder",
       "homeTeam": {
-        "id": "",
-        "code": "",
-        "name": "1F",
-        "nameZh": "1F",
-        "group": "",
-        "placeholder": true
+        "id": "ned",
+        "code": "NED",
+        "name": "Netherlands",
+        "nameZh": "荷兰",
+        "group": "F",
+        "placeholder": false
       },
       "awayTeam": {
         "id": "mar",
@@ -4398,10 +4398,7 @@
       "apiId": 537415,
       "url": "",
       "fallbackSource": "openfootball",
-      "homePlayers": [],
-      "awayPlayers": [],
-      "involvedPlayers": [],
-      "potentialPlayers": [
+      "homePlayers": [
         {
           "id": "nathan-ake",
           "name": "Nathan Ake",
@@ -4427,9 +4424,37 @@
           "clubLabel": "曼城"
         }
       ],
-      "isTracked": false,
-      "isPotentialTracked": true,
-      "hasPlaceholder": true
+      "awayPlayers": [],
+      "involvedPlayers": [
+        {
+          "id": "nathan-ake",
+          "name": "Nathan Ake",
+          "displayName": "阿克",
+          "teamCode": "NED",
+          "teamName": "Netherlands",
+          "teamNameZh": "荷兰",
+          "flag": "🇳🇱",
+          "position": "DF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "tijjani-reijnders",
+          "name": "Tijjani Reijnders",
+          "displayName": "赖因德斯",
+          "teamCode": "NED",
+          "teamName": "Netherlands",
+          "teamNameZh": "荷兰",
+          "flag": "🇳🇱",
+          "position": "MF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        }
+      ],
+      "potentialPlayers": [],
+      "isTracked": true,
+      "isPotentialTracked": false,
+      "hasPlaceholder": false
     },
     {
       "id": "m076",
@@ -4450,12 +4475,12 @@
         "placeholder": false
       },
       "awayTeam": {
-        "id": "",
-        "code": "",
-        "name": "2F",
-        "nameZh": "2F",
-        "group": "",
-        "placeholder": true
+        "id": "jpn",
+        "code": "JPN",
+        "name": "Japan",
+        "nameZh": "日本",
+        "group": "F",
+        "placeholder": false
       },
       "source": "GoalPulse",
       "apiId": 537418,
@@ -4464,35 +4489,10 @@
       "homePlayers": [],
       "awayPlayers": [],
       "involvedPlayers": [],
-      "potentialPlayers": [
-        {
-          "id": "nathan-ake",
-          "name": "Nathan Ake",
-          "displayName": "阿克",
-          "teamCode": "NED",
-          "teamName": "Netherlands",
-          "teamNameZh": "荷兰",
-          "flag": "🇳🇱",
-          "position": "DF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "tijjani-reijnders",
-          "name": "Tijjani Reijnders",
-          "displayName": "赖因德斯",
-          "teamCode": "NED",
-          "teamName": "Netherlands",
-          "teamNameZh": "荷兰",
-          "flag": "🇳🇱",
-          "position": "MF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        }
-      ],
+      "potentialPlayers": [],
       "isTracked": false,
-      "isPotentialTracked": true,
-      "hasPlaceholder": true
+      "isPotentialTracked": false,
+      "hasPlaceholder": false
     },
     {
       "id": "m077",
@@ -4640,12 +4640,12 @@
       "venue": "cowboys",
       "status": "placeholder",
       "homeTeam": {
-        "id": "",
-        "code": "",
-        "name": "2E",
-        "nameZh": "2E",
-        "group": "",
-        "placeholder": true
+        "id": "civ",
+        "code": "CIV",
+        "name": "Ivory Coast",
+        "nameZh": "科特迪瓦",
+        "group": "E",
+        "placeholder": false
       },
       "awayTeam": {
         "id": "",
@@ -5882,12 +5882,12 @@
       "venue": "cowboys",
       "status": "placeholder",
       "homeTeam": {
-        "id": "",
-        "code": "",
-        "name": "2D",
-        "nameZh": "2D",
-        "group": "",
-        "placeholder": true
+        "id": "aus",
+        "code": "AUS",
+        "name": "Australia",
+        "nameZh": "澳大利亚",
+        "group": "D",
+        "placeholder": false
       },
       "awayTeam": {
         "id": "",
