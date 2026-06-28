@@ -1,6 +1,6 @@
 {
-  "cachedAt": 1782612221791,
-  "generatedAt": "2026-06-28T02:03:41.791Z",
+  "cachedAt": 1782628822956,
+  "generatedAt": "2026-06-28T06:40:22.956Z",
   "cacheHit": false,
   "sources": [
     {
@@ -3749,7 +3749,7 @@
       "group": "L",
       "city": "East Rutherford",
       "venue": "metlife",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "pan",
         "code": "PAN",
@@ -3885,7 +3885,7 @@
       "group": "L",
       "city": "Philadelphia",
       "venue": "lincoln",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "cro",
         "code": "CRO",
@@ -3998,7 +3998,7 @@
       "group": "K",
       "city": "Miami Gardens",
       "venue": "hardrock",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "col",
         "code": "COL",
@@ -4110,7 +4110,7 @@
       "group": "K",
       "city": "Atlanta",
       "venue": "mercedes_benz",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "cod",
         "code": "COD",
