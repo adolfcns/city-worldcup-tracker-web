@@ -1,14 +1,14 @@
 {
-  "cachedAt": 1782628822956,
-  "generatedAt": "2026-06-28T06:40:22.956Z",
+  "cachedAt": 1782640199424,
+  "generatedAt": "2026-06-28T09:49:59.424Z",
   "cacheHit": false,
   "sources": [
     {
       "name": "GoalPulse",
       "ok": true,
-      "version": "2026-06-27",
-      "lastReviewed": "2026-06-27",
-      "lastModified": "Sat, 27 Jun 2026 00:00:00 GMT"
+      "version": "2026-06-28",
+      "lastReviewed": "2026-06-28",
+      "lastModified": "Sun, 28 Jun 2026 00:00:00 GMT"
     },
     {
       "name": "openfootball",
@@ -17,8 +17,8 @@
   ],
   "counts": {
     "totalMatches": 104,
-    "trackedConfirmed": 31,
-    "trackedPotential": 13,
+    "trackedConfirmed": 40,
+    "trackedPotential": 0,
     "players": 20
   },
   "playersMeta": {
@@ -4174,7 +4174,7 @@
       "group": "J",
       "city": "Arlington",
       "venue": "cowboys",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "jor",
         "code": "JOR",
@@ -4212,7 +4212,7 @@
       "group": "J",
       "city": "Kansas City",
       "venue": "arrowhead",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "alg",
         "code": "ALG",
@@ -4276,13 +4276,13 @@
       "group": "",
       "city": "Inglewood",
       "venue": "sofi",
-      "status": "placeholder",
+      "status": "scheduled",
       "homeTeam": {
         "id": "rsa",
         "code": "RSA",
         "name": "South Africa",
         "nameZh": "南非",
-        "group": "A",
+        "group": "",
         "placeholder": false
       },
       "awayTeam": {
@@ -4290,12 +4290,12 @@
         "code": "CAN",
         "name": "Canada",
         "nameZh": "加拿大",
-        "group": "B",
+        "group": "",
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537417,
-      "url": "",
+      "apiId": 1561329,
+      "url": "https://goalpulse.io/zh/matches/rsa-vs-can-m073",
       "fallbackSource": "openfootball",
       "homePlayers": [],
       "awayPlayers": [],
@@ -4314,59 +4314,34 @@
       "group": "",
       "city": "Foxborough",
       "venue": "gillette",
-      "status": "placeholder",
+      "status": "scheduled",
       "homeTeam": {
-        "id": "ger",
-        "code": "GER",
-        "name": "Germany",
-        "nameZh": "德国",
-        "group": "E",
+        "id": "bra",
+        "code": "BRA",
+        "name": "Brazil",
+        "nameZh": "巴西",
+        "group": "",
         "placeholder": false
       },
       "awayTeam": {
-        "id": "",
-        "code": "",
-        "name": "3A/B/C/D/F",
-        "nameZh": "3A/B/C/D/F",
+        "id": "jpn",
+        "code": "JPN",
+        "name": "Japan",
+        "nameZh": "日本",
         "group": "",
-        "placeholder": true
+        "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537423,
-      "url": "",
+      "apiId": 1562344,
+      "url": "https://goalpulse.io/zh/matches/bra-vs-jpn-m074",
       "fallbackSource": "openfootball",
       "homePlayers": [],
       "awayPlayers": [],
       "involvedPlayers": [],
-      "potentialPlayers": [
-        {
-          "id": "nathan-ake",
-          "name": "Nathan Ake",
-          "displayName": "阿克",
-          "teamCode": "NED",
-          "teamName": "Netherlands",
-          "teamNameZh": "荷兰",
-          "flag": "🇳🇱",
-          "position": "DF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "tijjani-reijnders",
-          "name": "Tijjani Reijnders",
-          "displayName": "赖因德斯",
-          "teamCode": "NED",
-          "teamName": "Netherlands",
-          "teamNameZh": "荷兰",
-          "flag": "🇳🇱",
-          "position": "MF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        }
-      ],
+      "potentialPlayers": [],
       "isTracked": false,
-      "isPotentialTracked": true,
-      "hasPlaceholder": true
+      "isPotentialTracked": false,
+      "hasPlaceholder": false
     },
     {
       "id": "m075",
@@ -4377,13 +4352,51 @@
       "group": "",
       "city": "Monterrey",
       "venue": "monterrey",
-      "status": "placeholder",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ger",
+        "code": "GER",
+        "name": "Germany",
+        "nameZh": "德国",
+        "group": "",
+        "placeholder": false
+      },
+      "awayTeam": {
+        "id": "par",
+        "code": "PAR",
+        "name": "Paraguay",
+        "nameZh": "巴拉圭",
+        "group": "",
+        "placeholder": false
+      },
+      "source": "GoalPulse",
+      "apiId": 1565176,
+      "url": "https://goalpulse.io/zh/matches/ger-vs-par-m075",
+      "fallbackSource": "openfootball",
+      "homePlayers": [],
+      "awayPlayers": [],
+      "involvedPlayers": [],
+      "potentialPlayers": [],
+      "isTracked": false,
+      "isPotentialTracked": false,
+      "hasPlaceholder": false
+    },
+    {
+      "id": "m076",
+      "number": 76,
+      "date": "2026-06-30T01:00:00Z",
+      "stage": "r32",
+      "stageLabel": "32强",
+      "group": "",
+      "city": "Houston",
+      "venue": "nrg",
+      "status": "scheduled",
       "homeTeam": {
         "id": "ned",
         "code": "NED",
         "name": "Netherlands",
         "nameZh": "荷兰",
-        "group": "F",
+        "group": "",
         "placeholder": false
       },
       "awayTeam": {
@@ -4391,12 +4404,12 @@
         "code": "MAR",
         "name": "Morocco",
         "nameZh": "摩洛哥",
-        "group": "C",
+        "group": "",
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537415,
-      "url": "",
+      "apiId": 1562345,
+      "url": "https://goalpulse.io/zh/matches/ned-vs-mar-m076",
       "fallbackSource": "openfootball",
       "homePlayers": [
         {
@@ -4457,44 +4470,6 @@
       "hasPlaceholder": false
     },
     {
-      "id": "m076",
-      "number": 76,
-      "date": "2026-06-30T01:00:00Z",
-      "stage": "r32",
-      "stageLabel": "32强",
-      "group": "",
-      "city": "Houston",
-      "venue": "nrg",
-      "status": "placeholder",
-      "homeTeam": {
-        "id": "bra",
-        "code": "BRA",
-        "name": "Brazil",
-        "nameZh": "巴西",
-        "group": "C",
-        "placeholder": false
-      },
-      "awayTeam": {
-        "id": "jpn",
-        "code": "JPN",
-        "name": "Japan",
-        "nameZh": "日本",
-        "group": "F",
-        "placeholder": false
-      },
-      "source": "GoalPulse",
-      "apiId": 537418,
-      "url": "",
-      "fallbackSource": "openfootball",
-      "homePlayers": [],
-      "awayPlayers": [],
-      "involvedPlayers": [],
-      "potentialPlayers": [],
-      "isTracked": false,
-      "isPotentialTracked": false,
-      "hasPlaceholder": false
-    },
-    {
       "id": "m077",
       "number": 77,
       "date": "2026-06-30T17:00:00Z",
@@ -4503,43 +4478,29 @@
       "group": "",
       "city": "East Rutherford",
       "venue": "metlife",
-      "status": "placeholder",
+      "status": "scheduled",
       "homeTeam": {
-        "id": "",
-        "code": "",
-        "name": "1I",
-        "nameZh": "1I",
+        "id": "civ",
+        "code": "CIV",
+        "name": "Ivory Coast",
+        "nameZh": "科特迪瓦",
         "group": "",
-        "placeholder": true
+        "placeholder": false
       },
       "awayTeam": {
-        "id": "",
-        "code": "",
-        "name": "3C/D/F/G/H",
-        "nameZh": "3C/D/F/G/H",
+        "id": "nor",
+        "code": "NOR",
+        "name": "Norway",
+        "nameZh": "挪威",
         "group": "",
-        "placeholder": true
+        "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537424,
-      "url": "",
+      "apiId": 1564789,
+      "url": "https://goalpulse.io/zh/matches/civ-vs-nor-m077",
       "fallbackSource": "openfootball",
       "homePlayers": [],
-      "awayPlayers": [],
-      "involvedPlayers": [],
-      "potentialPlayers": [
-        {
-          "id": "rayan-cherki",
-          "name": "Rayan Cherki",
-          "displayName": "切尔基",
-          "teamCode": "FRA",
-          "teamName": "France",
-          "teamNameZh": "法国",
-          "flag": "🇫🇷",
-          "position": "MF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
+      "awayPlayers": [
         {
           "id": "erling-haaland",
           "name": "Erling Haaland",
@@ -4551,83 +4512,26 @@
           "position": "FW",
           "clubStatus": "current",
           "clubLabel": "曼城"
-        },
+        }
+      ],
+      "involvedPlayers": [
         {
-          "id": "nathan-ake",
-          "name": "Nathan Ake",
-          "displayName": "阿克",
-          "teamCode": "NED",
-          "teamName": "Netherlands",
-          "teamNameZh": "荷兰",
-          "flag": "🇳🇱",
-          "position": "DF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "tijjani-reijnders",
-          "name": "Tijjani Reijnders",
-          "displayName": "赖因德斯",
-          "teamCode": "NED",
-          "teamName": "Netherlands",
-          "teamNameZh": "荷兰",
-          "flag": "🇳🇱",
-          "position": "MF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "jeremy-doku",
-          "name": "Jeremy Doku",
-          "displayName": "多库",
-          "teamCode": "BEL",
-          "teamName": "Belgium",
-          "teamNameZh": "比利时",
-          "flag": "🇧🇪",
+          "id": "erling-haaland",
+          "name": "Erling Haaland",
+          "displayName": "哈兰德",
+          "teamCode": "NOR",
+          "teamName": "Norway",
+          "teamNameZh": "挪威",
+          "flag": "🇳🇴",
           "position": "FW",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "kevin-de-bruyne",
-          "name": "Kevin De Bruyne",
-          "displayName": "丁丁",
-          "teamCode": "BEL",
-          "teamName": "Belgium",
-          "teamNameZh": "比利时",
-          "flag": "🇧🇪",
-          "position": "MF",
-          "clubStatus": "watched_departure",
-          "clubLabel": "离队仍关注"
-        },
-        {
-          "id": "omar-marmoush",
-          "name": "Omar Marmoush",
-          "displayName": "马尔穆什",
-          "teamCode": "EGY",
-          "teamName": "Egypt",
-          "teamNameZh": "埃及",
-          "flag": "🇪🇬",
-          "position": "FW",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "rodri",
-          "name": "Rodri",
-          "displayName": "罗德里",
-          "teamCode": "ESP",
-          "teamName": "Spain",
-          "teamNameZh": "西班牙",
-          "flag": "🇪🇸",
-          "position": "MF",
           "clubStatus": "current",
           "clubLabel": "曼城"
         }
       ],
-      "isTracked": false,
-      "isPotentialTracked": true,
-      "hasPlaceholder": true
+      "potentialPlayers": [],
+      "isTracked": true,
+      "isPotentialTracked": false,
+      "hasPlaceholder": false
     },
     {
       "id": "m078",
@@ -4638,31 +4542,28 @@
       "group": "",
       "city": "Arlington",
       "venue": "cowboys",
-      "status": "placeholder",
+      "status": "scheduled",
       "homeTeam": {
-        "id": "civ",
-        "code": "CIV",
-        "name": "Ivory Coast",
-        "nameZh": "科特迪瓦",
-        "group": "E",
+        "id": "fra",
+        "code": "FRA",
+        "name": "France",
+        "nameZh": "法国",
+        "group": "",
         "placeholder": false
       },
       "awayTeam": {
-        "id": "",
-        "code": "",
-        "name": "2I",
-        "nameZh": "2I",
+        "id": "swe",
+        "code": "SWE",
+        "name": "Sweden",
+        "nameZh": "瑞典",
         "group": "",
-        "placeholder": true
+        "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537416,
-      "url": "",
+      "apiId": 1565177,
+      "url": "https://goalpulse.io/zh/matches/fra-vs-swe-m078",
       "fallbackSource": "openfootball",
-      "homePlayers": [],
-      "awayPlayers": [],
-      "involvedPlayers": [],
-      "potentialPlayers": [
+      "homePlayers": [
         {
           "id": "rayan-cherki",
           "name": "Rayan Cherki",
@@ -4674,23 +4575,27 @@
           "position": "MF",
           "clubStatus": "current",
           "clubLabel": "曼城"
-        },
+        }
+      ],
+      "awayPlayers": [],
+      "involvedPlayers": [
         {
-          "id": "erling-haaland",
-          "name": "Erling Haaland",
-          "displayName": "哈兰德",
-          "teamCode": "NOR",
-          "teamName": "Norway",
-          "teamNameZh": "挪威",
-          "flag": "🇳🇴",
-          "position": "FW",
+          "id": "rayan-cherki",
+          "name": "Rayan Cherki",
+          "displayName": "切尔基",
+          "teamCode": "FRA",
+          "teamName": "France",
+          "teamNameZh": "法国",
+          "flag": "🇫🇷",
+          "position": "MF",
           "clubStatus": "current",
           "clubLabel": "曼城"
         }
       ],
-      "isTracked": false,
-      "isPotentialTracked": true,
-      "hasPlaceholder": true
+      "potentialPlayers": [],
+      "isTracked": true,
+      "isPotentialTracked": false,
+      "hasPlaceholder": false
     },
     {
       "id": "m079",
@@ -4701,95 +4606,34 @@
       "group": "",
       "city": "Mexico City",
       "venue": "azteca",
-      "status": "placeholder",
+      "status": "scheduled",
       "homeTeam": {
         "id": "mex",
         "code": "MEX",
         "name": "Mexico",
         "nameZh": "墨西哥",
-        "group": "A",
+        "group": "",
         "placeholder": false
       },
       "awayTeam": {
-        "id": "",
-        "code": "",
-        "name": "3C/E/F/H/I",
-        "nameZh": "3C/E/F/H/I",
+        "id": "ecu",
+        "code": "ECU",
+        "name": "Ecuador",
+        "nameZh": "厄瓜多尔",
         "group": "",
-        "placeholder": true
+        "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537425,
-      "url": "",
+      "apiId": 1567306,
+      "url": "https://goalpulse.io/zh/matches/mex-vs-ecu-m079",
       "fallbackSource": "openfootball",
       "homePlayers": [],
       "awayPlayers": [],
       "involvedPlayers": [],
-      "potentialPlayers": [
-        {
-          "id": "nathan-ake",
-          "name": "Nathan Ake",
-          "displayName": "阿克",
-          "teamCode": "NED",
-          "teamName": "Netherlands",
-          "teamNameZh": "荷兰",
-          "flag": "🇳🇱",
-          "position": "DF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "tijjani-reijnders",
-          "name": "Tijjani Reijnders",
-          "displayName": "赖因德斯",
-          "teamCode": "NED",
-          "teamName": "Netherlands",
-          "teamNameZh": "荷兰",
-          "flag": "🇳🇱",
-          "position": "MF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "rodri",
-          "name": "Rodri",
-          "displayName": "罗德里",
-          "teamCode": "ESP",
-          "teamName": "Spain",
-          "teamNameZh": "西班牙",
-          "flag": "🇪🇸",
-          "position": "MF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "rayan-cherki",
-          "name": "Rayan Cherki",
-          "displayName": "切尔基",
-          "teamCode": "FRA",
-          "teamName": "France",
-          "teamNameZh": "法国",
-          "flag": "🇫🇷",
-          "position": "MF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "erling-haaland",
-          "name": "Erling Haaland",
-          "displayName": "哈兰德",
-          "teamCode": "NOR",
-          "teamName": "Norway",
-          "teamNameZh": "挪威",
-          "flag": "🇳🇴",
-          "position": "FW",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        }
-      ],
+      "potentialPlayers": [],
       "isTracked": false,
-      "isPotentialTracked": true,
-      "hasPlaceholder": true
+      "isPotentialTracked": false,
+      "hasPlaceholder": false
     },
     {
       "id": "m080",
@@ -4800,55 +4644,28 @@
       "group": "",
       "city": "Atlanta",
       "venue": "mercedes_benz",
-      "status": "placeholder",
+      "status": "scheduled",
       "homeTeam": {
-        "id": "",
-        "code": "",
-        "name": "1L",
-        "nameZh": "1L",
+        "id": "eng",
+        "code": "ENG",
+        "name": "England",
+        "nameZh": "英格兰",
         "group": "",
-        "placeholder": true
+        "placeholder": false
       },
       "awayTeam": {
-        "id": "",
-        "code": "",
-        "name": "3E/H/I/J/K",
-        "nameZh": "3E/H/I/J/K",
+        "id": "cod",
+        "code": "COD",
+        "name": "DR Congo",
+        "nameZh": "刚果民主共和国",
         "group": "",
-        "placeholder": true
+        "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537426,
-      "url": "",
+      "apiId": 1567307,
+      "url": "https://goalpulse.io/zh/matches/eng-vs-cod-m080",
       "fallbackSource": "openfootball",
-      "homePlayers": [],
-      "awayPlayers": [],
-      "involvedPlayers": [],
-      "potentialPlayers": [
-        {
-          "id": "josko-gvardiol",
-          "name": "Josko Gvardiol",
-          "displayName": "格瓦迪奥尔",
-          "teamCode": "CRO",
-          "teamName": "Croatia",
-          "teamNameZh": "克罗地亚",
-          "flag": "🇭🇷",
-          "position": "DF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "mateo-kovacic",
-          "name": "Mateo Kovacic",
-          "displayName": "科瓦契奇",
-          "teamCode": "CRO",
-          "teamName": "Croatia",
-          "teamNameZh": "克罗地亚",
-          "flag": "🇭🇷",
-          "position": "MF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
+      "homePlayers": [
         {
           "id": "nico-oreilly",
           "name": "Nico O'Reilly",
@@ -4896,119 +4713,63 @@
           "position": "GK",
           "clubStatus": "current",
           "clubLabel": "曼城"
-        },
+        }
+      ],
+      "awayPlayers": [],
+      "involvedPlayers": [
         {
-          "id": "antoine-semenyo",
-          "name": "Antoine Semenyo",
-          "displayName": "塞梅尼奥",
-          "teamCode": "GHA",
-          "teamName": "Ghana",
-          "teamNameZh": "加纳",
-          "flag": "🇬🇭",
-          "position": "MF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "rodri",
-          "name": "Rodri",
-          "displayName": "罗德里",
-          "teamCode": "ESP",
-          "teamName": "Spain",
-          "teamNameZh": "西班牙",
-          "flag": "🇪🇸",
-          "position": "MF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "rayan-cherki",
-          "name": "Rayan Cherki",
-          "displayName": "切尔基",
-          "teamCode": "FRA",
-          "teamName": "France",
-          "teamNameZh": "法国",
-          "flag": "🇫🇷",
-          "position": "MF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "erling-haaland",
-          "name": "Erling Haaland",
-          "displayName": "哈兰德",
-          "teamCode": "NOR",
-          "teamName": "Norway",
-          "teamNameZh": "挪威",
-          "flag": "🇳🇴",
-          "position": "FW",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "rayan-ait-nouri",
-          "name": "Rayan Ait-Nouri",
-          "displayName": "艾特-努里",
-          "teamCode": "ALG",
-          "teamName": "Algeria",
-          "teamNameZh": "阿尔及利亚",
-          "flag": "🇩🇿",
+          "id": "nico-oreilly",
+          "name": "Nico O'Reilly",
+          "displayName": "尼科-奥赖利",
+          "teamCode": "ENG",
+          "teamName": "England",
+          "teamNameZh": "英格兰",
+          "flag": "🏴",
           "position": "DF",
           "clubStatus": "current",
           "clubLabel": "曼城"
         },
         {
-          "id": "ruben-dias",
-          "name": "Ruben Dias",
-          "displayName": "鲁本-迪亚斯",
-          "teamCode": "POR",
-          "teamName": "Portugal",
-          "teamNameZh": "葡萄牙",
-          "flag": "🇵🇹",
+          "id": "john-stones",
+          "name": "John Stones",
+          "displayName": "斯通斯",
+          "teamCode": "ENG",
+          "teamName": "England",
+          "teamNameZh": "英格兰",
+          "flag": "🏴",
           "position": "DF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "matheus-nunes",
-          "name": "Matheus Nunes",
-          "displayName": "马特乌斯-努内斯",
-          "teamCode": "POR",
-          "teamName": "Portugal",
-          "teamNameZh": "葡萄牙",
-          "flag": "🇵🇹",
-          "position": "MF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "bernardo-silva",
-          "name": "Bernardo Silva",
-          "displayName": "B席",
-          "teamCode": "POR",
-          "teamName": "Portugal",
-          "teamNameZh": "葡萄牙",
-          "flag": "🇵🇹",
-          "position": "MF",
           "clubStatus": "watched_departure",
           "clubLabel": "离队仍关注"
         },
         {
-          "id": "abdukodir-khusanov",
-          "name": "Abdukodir Khusanov",
-          "displayName": "胡桑诺夫",
-          "teamCode": "UZB",
-          "teamName": "Uzbekistan",
-          "teamNameZh": "乌兹别克斯坦",
-          "flag": "🇺🇿",
+          "id": "marc-guehi",
+          "name": "Marc Guehi",
+          "displayName": "格伊",
+          "teamCode": "ENG",
+          "teamName": "England",
+          "teamNameZh": "英格兰",
+          "flag": "🏴",
           "position": "DF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "james-trafford",
+          "name": "James Trafford",
+          "displayName": "特拉福德",
+          "teamCode": "ENG",
+          "teamName": "England",
+          "teamNameZh": "英格兰",
+          "flag": "🏴",
+          "position": "GK",
           "clubStatus": "current",
           "clubLabel": "曼城"
         }
       ],
-      "isTracked": false,
-      "isPotentialTracked": true,
-      "hasPlaceholder": true
+      "potentialPlayers": [],
+      "isTracked": true,
+      "isPotentialTracked": false,
+      "hasPlaceholder": false
     },
     {
       "id": "m081",
@@ -5019,130 +4780,28 @@
       "group": "",
       "city": "Santa Clara",
       "venue": "levis",
-      "status": "placeholder",
+      "status": "scheduled",
       "homeTeam": {
-        "id": "",
-        "code": "",
-        "name": "USA",
-        "nameZh": "USA",
+        "id": "bel",
+        "code": "BEL",
+        "name": "Belgium",
+        "nameZh": "比利时",
         "group": "",
-        "placeholder": true
+        "placeholder": false
       },
       "awayTeam": {
-        "id": "",
-        "code": "",
-        "name": "3B/E/F/I/J",
-        "nameZh": "3B/E/F/I/J",
+        "id": "sen",
+        "code": "SEN",
+        "name": "Senegal",
+        "nameZh": "塞内加尔",
         "group": "",
-        "placeholder": true
+        "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537422,
-      "url": "",
+      "apiId": 1567308,
+      "url": "https://goalpulse.io/zh/matches/bel-vs-sen-m081",
       "fallbackSource": "openfootball",
-      "homePlayers": [],
-      "awayPlayers": [],
-      "involvedPlayers": [],
-      "potentialPlayers": [
-        {
-          "id": "nathan-ake",
-          "name": "Nathan Ake",
-          "displayName": "阿克",
-          "teamCode": "NED",
-          "teamName": "Netherlands",
-          "teamNameZh": "荷兰",
-          "flag": "🇳🇱",
-          "position": "DF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "tijjani-reijnders",
-          "name": "Tijjani Reijnders",
-          "displayName": "赖因德斯",
-          "teamCode": "NED",
-          "teamName": "Netherlands",
-          "teamNameZh": "荷兰",
-          "flag": "🇳🇱",
-          "position": "MF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "rayan-cherki",
-          "name": "Rayan Cherki",
-          "displayName": "切尔基",
-          "teamCode": "FRA",
-          "teamName": "France",
-          "teamNameZh": "法国",
-          "flag": "🇫🇷",
-          "position": "MF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "erling-haaland",
-          "name": "Erling Haaland",
-          "displayName": "哈兰德",
-          "teamCode": "NOR",
-          "teamName": "Norway",
-          "teamNameZh": "挪威",
-          "flag": "🇳🇴",
-          "position": "FW",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "rayan-ait-nouri",
-          "name": "Rayan Ait-Nouri",
-          "displayName": "艾特-努里",
-          "teamCode": "ALG",
-          "teamName": "Algeria",
-          "teamNameZh": "阿尔及利亚",
-          "flag": "🇩🇿",
-          "position": "DF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        }
-      ],
-      "isTracked": false,
-      "isPotentialTracked": true,
-      "hasPlaceholder": true
-    },
-    {
-      "id": "m082",
-      "number": 82,
-      "date": "2026-07-02T00:00:00Z",
-      "stage": "r32",
-      "stageLabel": "32强",
-      "group": "",
-      "city": "Seattle",
-      "venue": "seattle",
-      "status": "placeholder",
-      "homeTeam": {
-        "id": "",
-        "code": "",
-        "name": "1G",
-        "nameZh": "1G",
-        "group": "",
-        "placeholder": true
-      },
-      "awayTeam": {
-        "id": "",
-        "code": "",
-        "name": "3A/E/H/I/J",
-        "nameZh": "3A/E/H/I/J",
-        "group": "",
-        "placeholder": true
-      },
-      "source": "GoalPulse",
-      "apiId": 537421,
-      "url": "",
-      "fallbackSource": "openfootball",
-      "homePlayers": [],
-      "awayPlayers": [],
-      "involvedPlayers": [],
-      "potentialPlayers": [
+      "homePlayers": [
         {
           "id": "jeremy-doku",
           "name": "Jeremy Doku",
@@ -5166,71 +4825,77 @@
           "position": "MF",
           "clubStatus": "watched_departure",
           "clubLabel": "离队仍关注"
-        },
-        {
-          "id": "omar-marmoush",
-          "name": "Omar Marmoush",
-          "displayName": "马尔穆什",
-          "teamCode": "EGY",
-          "teamName": "Egypt",
-          "teamNameZh": "埃及",
-          "flag": "🇪🇬",
-          "position": "FW",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "rodri",
-          "name": "Rodri",
-          "displayName": "罗德里",
-          "teamCode": "ESP",
-          "teamName": "Spain",
-          "teamNameZh": "西班牙",
-          "flag": "🇪🇸",
-          "position": "MF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "rayan-cherki",
-          "name": "Rayan Cherki",
-          "displayName": "切尔基",
-          "teamCode": "FRA",
-          "teamName": "France",
-          "teamNameZh": "法国",
-          "flag": "🇫🇷",
-          "position": "MF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "erling-haaland",
-          "name": "Erling Haaland",
-          "displayName": "哈兰德",
-          "teamCode": "NOR",
-          "teamName": "Norway",
-          "teamNameZh": "挪威",
-          "flag": "🇳🇴",
-          "position": "FW",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "rayan-ait-nouri",
-          "name": "Rayan Ait-Nouri",
-          "displayName": "艾特-努里",
-          "teamCode": "ALG",
-          "teamName": "Algeria",
-          "teamNameZh": "阿尔及利亚",
-          "flag": "🇩🇿",
-          "position": "DF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
         }
       ],
+      "awayPlayers": [],
+      "involvedPlayers": [
+        {
+          "id": "jeremy-doku",
+          "name": "Jeremy Doku",
+          "displayName": "多库",
+          "teamCode": "BEL",
+          "teamName": "Belgium",
+          "teamNameZh": "比利时",
+          "flag": "🇧🇪",
+          "position": "FW",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "kevin-de-bruyne",
+          "name": "Kevin De Bruyne",
+          "displayName": "丁丁",
+          "teamCode": "BEL",
+          "teamName": "Belgium",
+          "teamNameZh": "比利时",
+          "flag": "🇧🇪",
+          "position": "MF",
+          "clubStatus": "watched_departure",
+          "clubLabel": "离队仍关注"
+        }
+      ],
+      "potentialPlayers": [],
+      "isTracked": true,
+      "isPotentialTracked": false,
+      "hasPlaceholder": false
+    },
+    {
+      "id": "m082",
+      "number": 82,
+      "date": "2026-07-02T00:00:00Z",
+      "stage": "r32",
+      "stageLabel": "32强",
+      "group": "",
+      "city": "Seattle",
+      "venue": "seattle",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "usa",
+        "code": "USA",
+        "name": "United States",
+        "nameZh": "美国",
+        "group": "",
+        "placeholder": false
+      },
+      "awayTeam": {
+        "id": "bih",
+        "code": "BIH",
+        "name": "Bosnia and Herzegovina",
+        "nameZh": "波斯尼亚和黑塞哥维那",
+        "group": "",
+        "placeholder": false
+      },
+      "source": "GoalPulse",
+      "apiId": 1562586,
+      "url": "https://goalpulse.io/zh/matches/usa-vs-bih-m082",
+      "fallbackSource": "openfootball",
+      "homePlayers": [],
+      "awayPlayers": [],
+      "involvedPlayers": [],
+      "potentialPlayers": [],
       "isTracked": false,
-      "isPotentialTracked": true,
-      "hasPlaceholder": true
+      "isPotentialTracked": false,
+      "hasPlaceholder": false
     },
     {
       "id": "m083",
@@ -5243,29 +4908,90 @@
       "venue": "bmo",
       "status": "placeholder",
       "homeTeam": {
-        "id": "",
-        "code": "",
-        "name": "2K",
-        "nameZh": "2K",
-        "group": "",
-        "placeholder": true
+        "id": "por",
+        "code": "POR",
+        "name": "Portugal",
+        "nameZh": "葡萄牙",
+        "group": "K",
+        "placeholder": false
       },
       "awayTeam": {
-        "id": "",
-        "code": "",
-        "name": "2L",
-        "nameZh": "2L",
-        "group": "",
-        "placeholder": true
+        "id": "cro",
+        "code": "CRO",
+        "name": "Croatia",
+        "nameZh": "克罗地亚",
+        "group": "L",
+        "placeholder": false
       },
       "source": "GoalPulse",
       "apiId": 537420,
       "url": "",
       "fallbackSource": "openfootball",
-      "homePlayers": [],
-      "awayPlayers": [],
-      "involvedPlayers": [],
-      "potentialPlayers": [
+      "homePlayers": [
+        {
+          "id": "ruben-dias",
+          "name": "Ruben Dias",
+          "displayName": "鲁本-迪亚斯",
+          "teamCode": "POR",
+          "teamName": "Portugal",
+          "teamNameZh": "葡萄牙",
+          "flag": "🇵🇹",
+          "position": "DF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "matheus-nunes",
+          "name": "Matheus Nunes",
+          "displayName": "马特乌斯-努内斯",
+          "teamCode": "POR",
+          "teamName": "Portugal",
+          "teamNameZh": "葡萄牙",
+          "flag": "🇵🇹",
+          "position": "MF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "bernardo-silva",
+          "name": "Bernardo Silva",
+          "displayName": "B席",
+          "teamCode": "POR",
+          "teamName": "Portugal",
+          "teamNameZh": "葡萄牙",
+          "flag": "🇵🇹",
+          "position": "MF",
+          "clubStatus": "watched_departure",
+          "clubLabel": "离队仍关注"
+        }
+      ],
+      "awayPlayers": [
+        {
+          "id": "josko-gvardiol",
+          "name": "Josko Gvardiol",
+          "displayName": "格瓦迪奥尔",
+          "teamCode": "CRO",
+          "teamName": "Croatia",
+          "teamNameZh": "克罗地亚",
+          "flag": "🇭🇷",
+          "position": "DF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "mateo-kovacic",
+          "name": "Mateo Kovacic",
+          "displayName": "科瓦契奇",
+          "teamCode": "CRO",
+          "teamName": "Croatia",
+          "teamNameZh": "克罗地亚",
+          "flag": "🇭🇷",
+          "position": "MF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        }
+      ],
+      "involvedPlayers": [
         {
           "id": "ruben-dias",
           "name": "Ruben Dias",
@@ -5303,16 +5029,165 @@
           "clubLabel": "离队仍关注"
         },
         {
-          "id": "abdukodir-khusanov",
-          "name": "Abdukodir Khusanov",
-          "displayName": "胡桑诺夫",
-          "teamCode": "UZB",
-          "teamName": "Uzbekistan",
-          "teamNameZh": "乌兹别克斯坦",
-          "flag": "🇺🇿",
+          "id": "josko-gvardiol",
+          "name": "Josko Gvardiol",
+          "displayName": "格瓦迪奥尔",
+          "teamCode": "CRO",
+          "teamName": "Croatia",
+          "teamNameZh": "克罗地亚",
+          "flag": "🇭🇷",
           "position": "DF",
           "clubStatus": "current",
           "clubLabel": "曼城"
+        },
+        {
+          "id": "mateo-kovacic",
+          "name": "Mateo Kovacic",
+          "displayName": "科瓦契奇",
+          "teamCode": "CRO",
+          "teamName": "Croatia",
+          "teamNameZh": "克罗地亚",
+          "flag": "🇭🇷",
+          "position": "MF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        }
+      ],
+      "potentialPlayers": [],
+      "isTracked": true,
+      "isPotentialTracked": false,
+      "hasPlaceholder": false
+    },
+    {
+      "id": "m084",
+      "number": 84,
+      "date": "2026-07-02T23:00:00Z",
+      "stage": "r32",
+      "stageLabel": "32强",
+      "group": "",
+      "city": "Inglewood",
+      "venue": "sofi",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "por",
+        "code": "POR",
+        "name": "Portugal",
+        "nameZh": "葡萄牙",
+        "group": "",
+        "placeholder": false
+      },
+      "awayTeam": {
+        "id": "cro",
+        "code": "CRO",
+        "name": "Croatia",
+        "nameZh": "克罗地亚",
+        "group": "",
+        "placeholder": false
+      },
+      "source": "GoalPulse",
+      "apiId": 1567309,
+      "url": "https://goalpulse.io/zh/matches/por-vs-cro-m084",
+      "fallbackSource": "openfootball",
+      "homePlayers": [
+        {
+          "id": "ruben-dias",
+          "name": "Ruben Dias",
+          "displayName": "鲁本-迪亚斯",
+          "teamCode": "POR",
+          "teamName": "Portugal",
+          "teamNameZh": "葡萄牙",
+          "flag": "🇵🇹",
+          "position": "DF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "matheus-nunes",
+          "name": "Matheus Nunes",
+          "displayName": "马特乌斯-努内斯",
+          "teamCode": "POR",
+          "teamName": "Portugal",
+          "teamNameZh": "葡萄牙",
+          "flag": "🇵🇹",
+          "position": "MF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "bernardo-silva",
+          "name": "Bernardo Silva",
+          "displayName": "B席",
+          "teamCode": "POR",
+          "teamName": "Portugal",
+          "teamNameZh": "葡萄牙",
+          "flag": "🇵🇹",
+          "position": "MF",
+          "clubStatus": "watched_departure",
+          "clubLabel": "离队仍关注"
+        }
+      ],
+      "awayPlayers": [
+        {
+          "id": "josko-gvardiol",
+          "name": "Josko Gvardiol",
+          "displayName": "格瓦迪奥尔",
+          "teamCode": "CRO",
+          "teamName": "Croatia",
+          "teamNameZh": "克罗地亚",
+          "flag": "🇭🇷",
+          "position": "DF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "mateo-kovacic",
+          "name": "Mateo Kovacic",
+          "displayName": "科瓦契奇",
+          "teamCode": "CRO",
+          "teamName": "Croatia",
+          "teamNameZh": "克罗地亚",
+          "flag": "🇭🇷",
+          "position": "MF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        }
+      ],
+      "involvedPlayers": [
+        {
+          "id": "ruben-dias",
+          "name": "Ruben Dias",
+          "displayName": "鲁本-迪亚斯",
+          "teamCode": "POR",
+          "teamName": "Portugal",
+          "teamNameZh": "葡萄牙",
+          "flag": "🇵🇹",
+          "position": "DF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "matheus-nunes",
+          "name": "Matheus Nunes",
+          "displayName": "马特乌斯-努内斯",
+          "teamCode": "POR",
+          "teamName": "Portugal",
+          "teamNameZh": "葡萄牙",
+          "flag": "🇵🇹",
+          "position": "MF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "bernardo-silva",
+          "name": "Bernardo Silva",
+          "displayName": "B席",
+          "teamCode": "POR",
+          "teamName": "Portugal",
+          "teamNameZh": "葡萄牙",
+          "flag": "🇵🇹",
+          "position": "MF",
+          "clubStatus": "watched_departure",
+          "clubLabel": "离队仍关注"
         },
         {
           "id": "josko-gvardiol",
@@ -5337,134 +5212,12 @@
           "position": "MF",
           "clubStatus": "current",
           "clubLabel": "曼城"
-        },
-        {
-          "id": "nico-oreilly",
-          "name": "Nico O'Reilly",
-          "displayName": "尼科-奥赖利",
-          "teamCode": "ENG",
-          "teamName": "England",
-          "teamNameZh": "英格兰",
-          "flag": "🏴",
-          "position": "DF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "john-stones",
-          "name": "John Stones",
-          "displayName": "斯通斯",
-          "teamCode": "ENG",
-          "teamName": "England",
-          "teamNameZh": "英格兰",
-          "flag": "🏴",
-          "position": "DF",
-          "clubStatus": "watched_departure",
-          "clubLabel": "离队仍关注"
-        },
-        {
-          "id": "marc-guehi",
-          "name": "Marc Guehi",
-          "displayName": "格伊",
-          "teamCode": "ENG",
-          "teamName": "England",
-          "teamNameZh": "英格兰",
-          "flag": "🏴",
-          "position": "DF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "james-trafford",
-          "name": "James Trafford",
-          "displayName": "特拉福德",
-          "teamCode": "ENG",
-          "teamName": "England",
-          "teamNameZh": "英格兰",
-          "flag": "🏴",
-          "position": "GK",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "antoine-semenyo",
-          "name": "Antoine Semenyo",
-          "displayName": "塞梅尼奥",
-          "teamCode": "GHA",
-          "teamName": "Ghana",
-          "teamNameZh": "加纳",
-          "flag": "🇬🇭",
-          "position": "MF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
         }
       ],
-      "isTracked": false,
-      "isPotentialTracked": true,
-      "hasPlaceholder": true
-    },
-    {
-      "id": "m084",
-      "number": 84,
-      "date": "2026-07-02T23:00:00Z",
-      "stage": "r32",
-      "stageLabel": "32强",
-      "group": "",
-      "city": "Inglewood",
-      "venue": "sofi",
-      "status": "placeholder",
-      "homeTeam": {
-        "id": "",
-        "code": "",
-        "name": "1H",
-        "nameZh": "1H",
-        "group": "",
-        "placeholder": true
-      },
-      "awayTeam": {
-        "id": "",
-        "code": "",
-        "name": "2J",
-        "nameZh": "2J",
-        "group": "",
-        "placeholder": true
-      },
-      "source": "GoalPulse",
-      "apiId": 537419,
-      "url": "",
-      "fallbackSource": "openfootball",
-      "homePlayers": [],
-      "awayPlayers": [],
-      "involvedPlayers": [],
-      "potentialPlayers": [
-        {
-          "id": "rodri",
-          "name": "Rodri",
-          "displayName": "罗德里",
-          "teamCode": "ESP",
-          "teamName": "Spain",
-          "teamNameZh": "西班牙",
-          "flag": "🇪🇸",
-          "position": "MF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "rayan-ait-nouri",
-          "name": "Rayan Ait-Nouri",
-          "displayName": "艾特-努里",
-          "teamCode": "ALG",
-          "teamName": "Algeria",
-          "teamNameZh": "阿尔及利亚",
-          "flag": "🇩🇿",
-          "position": "DF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        }
-      ],
-      "isTracked": false,
-      "isPotentialTracked": true,
-      "hasPlaceholder": true
+      "potentialPlayers": [],
+      "isTracked": true,
+      "isPotentialTracked": false,
+      "hasPlaceholder": false
     },
     {
       "id": "m085",
@@ -5485,69 +5238,83 @@
         "placeholder": false
       },
       "awayTeam": {
-        "id": "",
-        "code": "",
-        "name": "3E/F/G/I/J",
-        "nameZh": "3E/F/G/I/J",
-        "group": "",
-        "placeholder": true
+        "id": "alg",
+        "code": "ALG",
+        "name": "Algeria",
+        "nameZh": "阿尔及利亚",
+        "group": "J",
+        "placeholder": false
       },
       "source": "GoalPulse",
       "apiId": 537429,
       "url": "",
       "fallbackSource": "openfootball",
       "homePlayers": [],
-      "awayPlayers": [],
-      "involvedPlayers": [],
-      "potentialPlayers": [
+      "awayPlayers": [
         {
-          "id": "nathan-ake",
-          "name": "Nathan Ake",
-          "displayName": "阿克",
-          "teamCode": "NED",
-          "teamName": "Netherlands",
-          "teamNameZh": "荷兰",
-          "flag": "🇳🇱",
+          "id": "rayan-ait-nouri",
+          "name": "Rayan Ait-Nouri",
+          "displayName": "艾特-努里",
+          "teamCode": "ALG",
+          "teamName": "Algeria",
+          "teamNameZh": "阿尔及利亚",
+          "flag": "🇩🇿",
           "position": "DF",
           "clubStatus": "current",
           "clubLabel": "曼城"
-        },
+        }
+      ],
+      "involvedPlayers": [
         {
-          "id": "tijjani-reijnders",
-          "name": "Tijjani Reijnders",
-          "displayName": "赖因德斯",
-          "teamCode": "NED",
-          "teamName": "Netherlands",
-          "teamNameZh": "荷兰",
-          "flag": "🇳🇱",
-          "position": "MF",
+          "id": "rayan-ait-nouri",
+          "name": "Rayan Ait-Nouri",
+          "displayName": "艾特-努里",
+          "teamCode": "ALG",
+          "teamName": "Algeria",
+          "teamNameZh": "阿尔及利亚",
+          "flag": "🇩🇿",
+          "position": "DF",
           "clubStatus": "current",
           "clubLabel": "曼城"
-        },
-        {
-          "id": "jeremy-doku",
-          "name": "Jeremy Doku",
-          "displayName": "多库",
-          "teamCode": "BEL",
-          "teamName": "Belgium",
-          "teamNameZh": "比利时",
-          "flag": "🇧🇪",
-          "position": "FW",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "kevin-de-bruyne",
-          "name": "Kevin De Bruyne",
-          "displayName": "丁丁",
-          "teamCode": "BEL",
-          "teamName": "Belgium",
-          "teamNameZh": "比利时",
-          "flag": "🇧🇪",
-          "position": "MF",
-          "clubStatus": "watched_departure",
-          "clubLabel": "离队仍关注"
-        },
+        }
+      ],
+      "potentialPlayers": [],
+      "isTracked": true,
+      "isPotentialTracked": false,
+      "hasPlaceholder": false
+    },
+    {
+      "id": "m086",
+      "number": 86,
+      "date": "2026-07-03T18:00:00Z",
+      "stage": "r32",
+      "stageLabel": "32强",
+      "group": "",
+      "city": "Miami Gardens",
+      "venue": "hardrock",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "aus",
+        "code": "AUS",
+        "name": "Australia",
+        "nameZh": "澳大利亚",
+        "group": "",
+        "placeholder": false
+      },
+      "awayTeam": {
+        "id": "egy",
+        "code": "EGY",
+        "name": "Egypt",
+        "nameZh": "埃及",
+        "group": "",
+        "placeholder": false
+      },
+      "source": "GoalPulse",
+      "apiId": 1565178,
+      "url": "https://goalpulse.io/zh/matches/aus-vs-egy-m086",
+      "fallbackSource": "openfootball",
+      "homePlayers": [],
+      "awayPlayers": [
         {
           "id": "omar-marmoush",
           "name": "Omar Marmoush",
@@ -5559,110 +5326,26 @@
           "position": "FW",
           "clubStatus": "current",
           "clubLabel": "曼城"
-        },
+        }
+      ],
+      "involvedPlayers": [
         {
-          "id": "rayan-cherki",
-          "name": "Rayan Cherki",
-          "displayName": "切尔基",
-          "teamCode": "FRA",
-          "teamName": "France",
-          "teamNameZh": "法国",
-          "flag": "🇫🇷",
-          "position": "MF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "erling-haaland",
-          "name": "Erling Haaland",
-          "displayName": "哈兰德",
-          "teamCode": "NOR",
-          "teamName": "Norway",
-          "teamNameZh": "挪威",
-          "flag": "🇳🇴",
+          "id": "omar-marmoush",
+          "name": "Omar Marmoush",
+          "displayName": "马尔穆什",
+          "teamCode": "EGY",
+          "teamName": "Egypt",
+          "teamNameZh": "埃及",
+          "flag": "🇪🇬",
           "position": "FW",
           "clubStatus": "current",
           "clubLabel": "曼城"
-        },
-        {
-          "id": "rayan-ait-nouri",
-          "name": "Rayan Ait-Nouri",
-          "displayName": "艾特-努里",
-          "teamCode": "ALG",
-          "teamName": "Algeria",
-          "teamNameZh": "阿尔及利亚",
-          "flag": "🇩🇿",
-          "position": "DF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
         }
       ],
-      "isTracked": false,
-      "isPotentialTracked": true,
-      "hasPlaceholder": true
-    },
-    {
-      "id": "m086",
-      "number": 86,
-      "date": "2026-07-03T18:00:00Z",
-      "stage": "r32",
-      "stageLabel": "32强",
-      "group": "",
-      "city": "Miami Gardens",
-      "venue": "hardrock",
-      "status": "placeholder",
-      "homeTeam": {
-        "id": "",
-        "code": "",
-        "name": "1J",
-        "nameZh": "1J",
-        "group": "",
-        "placeholder": true
-      },
-      "awayTeam": {
-        "id": "",
-        "code": "",
-        "name": "2H",
-        "nameZh": "2H",
-        "group": "",
-        "placeholder": true
-      },
-      "source": "GoalPulse",
-      "apiId": 537428,
-      "url": "",
-      "fallbackSource": "openfootball",
-      "homePlayers": [],
-      "awayPlayers": [],
-      "involvedPlayers": [],
-      "potentialPlayers": [
-        {
-          "id": "rayan-ait-nouri",
-          "name": "Rayan Ait-Nouri",
-          "displayName": "艾特-努里",
-          "teamCode": "ALG",
-          "teamName": "Algeria",
-          "teamNameZh": "阿尔及利亚",
-          "flag": "🇩🇿",
-          "position": "DF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "rodri",
-          "name": "Rodri",
-          "displayName": "罗德里",
-          "teamCode": "ESP",
-          "teamName": "Spain",
-          "teamNameZh": "西班牙",
-          "flag": "🇪🇸",
-          "position": "MF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        }
-      ],
-      "isTracked": false,
-      "isPotentialTracked": true,
-      "hasPlaceholder": true
+      "potentialPlayers": [],
+      "isTracked": true,
+      "isPotentialTracked": false,
+      "hasPlaceholder": false
     },
     {
       "id": "m087",
@@ -5673,187 +5356,67 @@
       "group": "",
       "city": "Kansas City",
       "venue": "arrowhead",
-      "status": "placeholder",
+      "status": "scheduled",
       "homeTeam": {
-        "id": "",
-        "code": "",
-        "name": "1K",
-        "nameZh": "1K",
+        "id": "arg",
+        "code": "ARG",
+        "name": "Argentina",
+        "nameZh": "阿根廷",
         "group": "",
-        "placeholder": true
+        "placeholder": false
       },
       "awayTeam": {
-        "id": "",
-        "code": "",
-        "name": "3D/E/I/J/L",
-        "nameZh": "3D/E/I/J/L",
+        "id": "cpv",
+        "code": "CPV",
+        "name": "Cape Verde",
+        "nameZh": "佛得角",
         "group": "",
-        "placeholder": true
+        "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": 537427,
-      "url": "",
+      "apiId": 1565179,
+      "url": "https://goalpulse.io/zh/matches/arg-vs-cpv-m087",
       "fallbackSource": "openfootball",
       "homePlayers": [],
       "awayPlayers": [],
       "involvedPlayers": [],
-      "potentialPlayers": [
-        {
-          "id": "ruben-dias",
-          "name": "Ruben Dias",
-          "displayName": "鲁本-迪亚斯",
-          "teamCode": "POR",
-          "teamName": "Portugal",
-          "teamNameZh": "葡萄牙",
-          "flag": "🇵🇹",
-          "position": "DF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "matheus-nunes",
-          "name": "Matheus Nunes",
-          "displayName": "马特乌斯-努内斯",
-          "teamCode": "POR",
-          "teamName": "Portugal",
-          "teamNameZh": "葡萄牙",
-          "flag": "🇵🇹",
-          "position": "MF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "bernardo-silva",
-          "name": "Bernardo Silva",
-          "displayName": "B席",
-          "teamCode": "POR",
-          "teamName": "Portugal",
-          "teamNameZh": "葡萄牙",
-          "flag": "🇵🇹",
-          "position": "MF",
-          "clubStatus": "watched_departure",
-          "clubLabel": "离队仍关注"
-        },
-        {
-          "id": "abdukodir-khusanov",
-          "name": "Abdukodir Khusanov",
-          "displayName": "胡桑诺夫",
-          "teamCode": "UZB",
-          "teamName": "Uzbekistan",
-          "teamNameZh": "乌兹别克斯坦",
-          "flag": "🇺🇿",
-          "position": "DF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "rayan-cherki",
-          "name": "Rayan Cherki",
-          "displayName": "切尔基",
-          "teamCode": "FRA",
-          "teamName": "France",
-          "teamNameZh": "法国",
-          "flag": "🇫🇷",
-          "position": "MF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "erling-haaland",
-          "name": "Erling Haaland",
-          "displayName": "哈兰德",
-          "teamCode": "NOR",
-          "teamName": "Norway",
-          "teamNameZh": "挪威",
-          "flag": "🇳🇴",
-          "position": "FW",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "rayan-ait-nouri",
-          "name": "Rayan Ait-Nouri",
-          "displayName": "艾特-努里",
-          "teamCode": "ALG",
-          "teamName": "Algeria",
-          "teamNameZh": "阿尔及利亚",
-          "flag": "🇩🇿",
-          "position": "DF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "josko-gvardiol",
-          "name": "Josko Gvardiol",
-          "displayName": "格瓦迪奥尔",
-          "teamCode": "CRO",
-          "teamName": "Croatia",
-          "teamNameZh": "克罗地亚",
-          "flag": "🇭🇷",
-          "position": "DF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "mateo-kovacic",
-          "name": "Mateo Kovacic",
-          "displayName": "科瓦契奇",
-          "teamCode": "CRO",
-          "teamName": "Croatia",
-          "teamNameZh": "克罗地亚",
-          "flag": "🇭🇷",
-          "position": "MF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "nico-oreilly",
-          "name": "Nico O'Reilly",
-          "displayName": "尼科-奥赖利",
-          "teamCode": "ENG",
-          "teamName": "England",
-          "teamNameZh": "英格兰",
-          "flag": "🏴",
-          "position": "DF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "john-stones",
-          "name": "John Stones",
-          "displayName": "斯通斯",
-          "teamCode": "ENG",
-          "teamName": "England",
-          "teamNameZh": "英格兰",
-          "flag": "🏴",
-          "position": "DF",
-          "clubStatus": "watched_departure",
-          "clubLabel": "离队仍关注"
-        },
-        {
-          "id": "marc-guehi",
-          "name": "Marc Guehi",
-          "displayName": "格伊",
-          "teamCode": "ENG",
-          "teamName": "England",
-          "teamNameZh": "英格兰",
-          "flag": "🏴",
-          "position": "DF",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "james-trafford",
-          "name": "James Trafford",
-          "displayName": "特拉福德",
-          "teamCode": "ENG",
-          "teamName": "England",
-          "teamNameZh": "英格兰",
-          "flag": "🏴",
-          "position": "GK",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
+      "potentialPlayers": [],
+      "isTracked": false,
+      "isPotentialTracked": false,
+      "hasPlaceholder": false
+    },
+    {
+      "id": "m088",
+      "number": 88,
+      "date": "2026-07-04T01:30:00Z",
+      "stage": "r32",
+      "stageLabel": "32强",
+      "group": "",
+      "city": "Arlington",
+      "venue": "cowboys",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "col",
+        "code": "COL",
+        "name": "Colombia",
+        "nameZh": "哥伦比亚",
+        "group": "",
+        "placeholder": false
+      },
+      "awayTeam": {
+        "id": "gha",
+        "code": "GHA",
+        "name": "Ghana",
+        "nameZh": "加纳",
+        "group": "",
+        "placeholder": false
+      },
+      "source": "GoalPulse",
+      "apiId": 1567310,
+      "url": "https://goalpulse.io/zh/matches/col-vs-gha-m088",
+      "fallbackSource": "openfootball",
+      "homePlayers": [],
+      "awayPlayers": [
         {
           "id": "antoine-semenyo",
           "name": "Antoine Semenyo",
@@ -5867,84 +5430,24 @@
           "clubLabel": "曼城"
         }
       ],
-      "isTracked": false,
-      "isPotentialTracked": true,
-      "hasPlaceholder": true
-    },
-    {
-      "id": "m088",
-      "number": 88,
-      "date": "2026-07-04T01:30:00Z",
-      "stage": "r32",
-      "stageLabel": "32强",
-      "group": "",
-      "city": "Arlington",
-      "venue": "cowboys",
-      "status": "placeholder",
-      "homeTeam": {
-        "id": "aus",
-        "code": "AUS",
-        "name": "Australia",
-        "nameZh": "澳大利亚",
-        "group": "D",
-        "placeholder": false
-      },
-      "awayTeam": {
-        "id": "",
-        "code": "",
-        "name": "2G",
-        "nameZh": "2G",
-        "group": "",
-        "placeholder": true
-      },
-      "source": "GoalPulse",
-      "apiId": 537430,
-      "url": "",
-      "fallbackSource": "openfootball",
-      "homePlayers": [],
-      "awayPlayers": [],
-      "involvedPlayers": [],
-      "potentialPlayers": [
+      "involvedPlayers": [
         {
-          "id": "jeremy-doku",
-          "name": "Jeremy Doku",
-          "displayName": "多库",
-          "teamCode": "BEL",
-          "teamName": "Belgium",
-          "teamNameZh": "比利时",
-          "flag": "🇧🇪",
-          "position": "FW",
-          "clubStatus": "current",
-          "clubLabel": "曼城"
-        },
-        {
-          "id": "kevin-de-bruyne",
-          "name": "Kevin De Bruyne",
-          "displayName": "丁丁",
-          "teamCode": "BEL",
-          "teamName": "Belgium",
-          "teamNameZh": "比利时",
-          "flag": "🇧🇪",
+          "id": "antoine-semenyo",
+          "name": "Antoine Semenyo",
+          "displayName": "塞梅尼奥",
+          "teamCode": "GHA",
+          "teamName": "Ghana",
+          "teamNameZh": "加纳",
+          "flag": "🇬🇭",
           "position": "MF",
-          "clubStatus": "watched_departure",
-          "clubLabel": "离队仍关注"
-        },
-        {
-          "id": "omar-marmoush",
-          "name": "Omar Marmoush",
-          "displayName": "马尔穆什",
-          "teamCode": "EGY",
-          "teamName": "Egypt",
-          "teamNameZh": "埃及",
-          "flag": "🇪🇬",
-          "position": "FW",
           "clubStatus": "current",
           "clubLabel": "曼城"
         }
       ],
-      "isTracked": false,
-      "isPotentialTracked": true,
-      "hasPlaceholder": true
+      "potentialPlayers": [],
+      "isTracked": true,
+      "isPotentialTracked": false,
+      "hasPlaceholder": false
     },
     {
       "id": "m090",
