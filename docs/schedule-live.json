@@ -1,6 +1,6 @@
 {
-  "cachedAt": 1782735248138,
-  "generatedAt": "2026-06-29T12:14:08.138Z",
+  "cachedAt": 1782749700411,
+  "generatedAt": "2026-06-29T16:15:00.411Z",
   "cacheHit": false,
   "sources": [
     {
@@ -5363,12 +5363,12 @@
       "venue": "nrg",
       "status": "placeholder",
       "homeTeam": {
-        "id": "",
-        "code": "",
-        "name": "W73",
-        "nameZh": "W73",
-        "group": "",
-        "placeholder": true
+        "id": "can",
+        "code": "CAN",
+        "name": "Canada",
+        "nameZh": "加拿大",
+        "group": "B",
+        "placeholder": false
       },
       "awayTeam": {
         "id": "",
