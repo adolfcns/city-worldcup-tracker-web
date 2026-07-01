@@ -1,6 +1,6 @@
 {
-  "cachedAt": 1782888539221,
-  "generatedAt": "2026-07-01T06:48:59.221Z",
+  "cachedAt": 1782902149323,
+  "generatedAt": "2026-07-01T10:35:49.323Z",
   "cacheHit": false,
   "sources": [
     {
@@ -17,7 +17,7 @@
   ],
   "counts": {
     "totalMatches": 104,
-    "trackedConfirmed": 40,
+    "trackedConfirmed": 42,
     "trackedPotential": 0,
     "players": 20
   },
@@ -5371,12 +5371,12 @@
         "placeholder": false
       },
       "awayTeam": {
-        "id": "",
-        "code": "",
-        "name": "W75",
-        "nameZh": "W75",
-        "group": "",
-        "placeholder": true
+        "id": "mar",
+        "code": "MAR",
+        "name": "Morocco",
+        "nameZh": "摩洛哥",
+        "group": "C",
+        "placeholder": false
       },
       "source": "GoalPulse",
       "apiId": null,
@@ -5388,7 +5388,7 @@
       "potentialPlayers": [],
       "isTracked": false,
       "isPotentialTracked": false,
-      "hasPlaceholder": true
+      "hasPlaceholder": false
     },
     {
       "id": "m089",
@@ -5401,32 +5401,58 @@
       "venue": "lincoln",
       "status": "placeholder",
       "homeTeam": {
-        "id": "",
-        "code": "",
-        "name": "W74",
-        "nameZh": "W74",
-        "group": "",
-        "placeholder": true
+        "id": "par",
+        "code": "PAR",
+        "name": "Paraguay",
+        "nameZh": "巴拉圭",
+        "group": "D",
+        "placeholder": false
       },
       "awayTeam": {
-        "id": "",
-        "code": "",
-        "name": "W77",
-        "nameZh": "W77",
-        "group": "",
-        "placeholder": true
+        "id": "fra",
+        "code": "FRA",
+        "name": "France",
+        "nameZh": "法国",
+        "group": "I",
+        "placeholder": false
       },
       "source": "GoalPulse",
       "apiId": null,
       "url": "",
       "fallbackSource": "openfootball",
       "homePlayers": [],
-      "awayPlayers": [],
-      "involvedPlayers": [],
+      "awayPlayers": [
+        {
+          "id": "rayan-cherki",
+          "name": "Rayan Cherki",
+          "displayName": "切尔基",
+          "teamCode": "FRA",
+          "teamName": "France",
+          "teamNameZh": "法国",
+          "flag": "🇫🇷",
+          "position": "MF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        }
+      ],
+      "involvedPlayers": [
+        {
+          "id": "rayan-cherki",
+          "name": "Rayan Cherki",
+          "displayName": "切尔基",
+          "teamCode": "FRA",
+          "teamName": "France",
+          "teamNameZh": "法国",
+          "flag": "🇫🇷",
+          "position": "MF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        }
+      ],
       "potentialPlayers": [],
-      "isTracked": false,
+      "isTracked": true,
       "isPotentialTracked": false,
-      "hasPlaceholder": true
+      "hasPlaceholder": false
     },
     {
       "id": "m091",
@@ -5439,32 +5465,58 @@
       "venue": "metlife",
       "status": "placeholder",
       "homeTeam": {
-        "id": "",
-        "code": "",
-        "name": "W76",
-        "nameZh": "W76",
-        "group": "",
-        "placeholder": true
+        "id": "bra",
+        "code": "BRA",
+        "name": "Brazil",
+        "nameZh": "巴西",
+        "group": "C",
+        "placeholder": false
       },
       "awayTeam": {
-        "id": "",
-        "code": "",
-        "name": "W78",
-        "nameZh": "W78",
-        "group": "",
-        "placeholder": true
+        "id": "nor",
+        "code": "NOR",
+        "name": "Norway",
+        "nameZh": "挪威",
+        "group": "I",
+        "placeholder": false
       },
       "source": "GoalPulse",
       "apiId": null,
       "url": "",
       "fallbackSource": "openfootball",
       "homePlayers": [],
-      "awayPlayers": [],
-      "involvedPlayers": [],
+      "awayPlayers": [
+        {
+          "id": "erling-haaland",
+          "name": "Erling Haaland",
+          "displayName": "哈兰德",
+          "teamCode": "NOR",
+          "teamName": "Norway",
+          "teamNameZh": "挪威",
+          "flag": "🇳🇴",
+          "position": "FW",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        }
+      ],
+      "involvedPlayers": [
+        {
+          "id": "erling-haaland",
+          "name": "Erling Haaland",
+          "displayName": "哈兰德",
+          "teamCode": "NOR",
+          "teamName": "Norway",
+          "teamNameZh": "挪威",
+          "flag": "🇳🇴",
+          "position": "FW",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        }
+      ],
       "potentialPlayers": [],
-      "isTracked": false,
+      "isTracked": true,
       "isPotentialTracked": false,
-      "hasPlaceholder": true
+      "hasPlaceholder": false
     },
     {
       "id": "m092",
