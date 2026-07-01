@@ -1,6 +1,6 @@
 {
-  "cachedAt": 1782902149323,
-  "generatedAt": "2026-07-01T10:35:49.323Z",
+  "cachedAt": 1782912561201,
+  "generatedAt": "2026-07-01T13:29:21.201Z",
   "cacheHit": false,
   "sources": [
     {
@@ -5529,12 +5529,12 @@
       "venue": "azteca",
       "status": "placeholder",
       "homeTeam": {
-        "id": "",
-        "code": "",
-        "name": "W79",
-        "nameZh": "W79",
-        "group": "",
-        "placeholder": true
+        "id": "mex",
+        "code": "MEX",
+        "name": "Mexico",
+        "nameZh": "墨西哥",
+        "group": "A",
+        "placeholder": false
       },
       "awayTeam": {
         "id": "",
