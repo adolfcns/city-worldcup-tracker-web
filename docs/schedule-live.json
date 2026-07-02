@@ -1,6 +1,6 @@
 {
-  "cachedAt": 1782970155321,
-  "generatedAt": "2026-07-02T05:29:15.321Z",
+  "cachedAt": 1782980883730,
+  "generatedAt": "2026-07-02T08:28:03.730Z",
   "cacheHit": false,
   "sources": [
     {
@@ -17,7 +17,7 @@
   ],
   "counts": {
     "totalMatches": 104,
-    "trackedConfirmed": 42,
+    "trackedConfirmed": 44,
     "trackedPotential": 0,
     "players": 20
   },
@@ -5537,24 +5537,122 @@
         "placeholder": false
       },
       "awayTeam": {
-        "id": "",
-        "code": "",
-        "name": "W80",
-        "nameZh": "W80",
-        "group": "",
-        "placeholder": true
+        "id": "eng",
+        "code": "ENG",
+        "name": "England",
+        "nameZh": "英格兰",
+        "group": "L",
+        "placeholder": false
       },
       "source": "GoalPulse",
       "apiId": null,
       "url": "",
       "fallbackSource": "openfootball",
       "homePlayers": [],
-      "awayPlayers": [],
-      "involvedPlayers": [],
+      "awayPlayers": [
+        {
+          "id": "nico-oreilly",
+          "name": "Nico O'Reilly",
+          "displayName": "尼科-奥赖利",
+          "teamCode": "ENG",
+          "teamName": "England",
+          "teamNameZh": "英格兰",
+          "flag": "🏴",
+          "position": "DF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "john-stones",
+          "name": "John Stones",
+          "displayName": "斯通斯",
+          "teamCode": "ENG",
+          "teamName": "England",
+          "teamNameZh": "英格兰",
+          "flag": "🏴",
+          "position": "DF",
+          "clubStatus": "watched_departure",
+          "clubLabel": "离队仍关注"
+        },
+        {
+          "id": "marc-guehi",
+          "name": "Marc Guehi",
+          "displayName": "格伊",
+          "teamCode": "ENG",
+          "teamName": "England",
+          "teamNameZh": "英格兰",
+          "flag": "🏴",
+          "position": "DF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "james-trafford",
+          "name": "James Trafford",
+          "displayName": "特拉福德",
+          "teamCode": "ENG",
+          "teamName": "England",
+          "teamNameZh": "英格兰",
+          "flag": "🏴",
+          "position": "GK",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        }
+      ],
+      "involvedPlayers": [
+        {
+          "id": "nico-oreilly",
+          "name": "Nico O'Reilly",
+          "displayName": "尼科-奥赖利",
+          "teamCode": "ENG",
+          "teamName": "England",
+          "teamNameZh": "英格兰",
+          "flag": "🏴",
+          "position": "DF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "john-stones",
+          "name": "John Stones",
+          "displayName": "斯通斯",
+          "teamCode": "ENG",
+          "teamName": "England",
+          "teamNameZh": "英格兰",
+          "flag": "🏴",
+          "position": "DF",
+          "clubStatus": "watched_departure",
+          "clubLabel": "离队仍关注"
+        },
+        {
+          "id": "marc-guehi",
+          "name": "Marc Guehi",
+          "displayName": "格伊",
+          "teamCode": "ENG",
+          "teamName": "England",
+          "teamNameZh": "英格兰",
+          "flag": "🏴",
+          "position": "DF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "james-trafford",
+          "name": "James Trafford",
+          "displayName": "特拉福德",
+          "teamCode": "ENG",
+          "teamName": "England",
+          "teamNameZh": "英格兰",
+          "flag": "🏴",
+          "position": "GK",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        }
+      ],
       "potentialPlayers": [],
-      "isTracked": false,
+      "isTracked": true,
       "isPotentialTracked": false,
-      "hasPlaceholder": true
+      "hasPlaceholder": false
     },
     {
       "id": "m093",
@@ -5607,28 +5705,78 @@
       "homeTeam": {
         "id": "",
         "code": "",
-        "name": "W81",
-        "nameZh": "W81",
+        "name": "USA",
+        "nameZh": "USA",
         "group": "",
         "placeholder": true
       },
       "awayTeam": {
-        "id": "",
-        "code": "",
-        "name": "W82",
-        "nameZh": "W82",
-        "group": "",
-        "placeholder": true
+        "id": "bel",
+        "code": "BEL",
+        "name": "Belgium",
+        "nameZh": "比利时",
+        "group": "G",
+        "placeholder": false
       },
       "source": "GoalPulse",
       "apiId": null,
       "url": "",
       "fallbackSource": "openfootball",
       "homePlayers": [],
-      "awayPlayers": [],
-      "involvedPlayers": [],
+      "awayPlayers": [
+        {
+          "id": "jeremy-doku",
+          "name": "Jeremy Doku",
+          "displayName": "多库",
+          "teamCode": "BEL",
+          "teamName": "Belgium",
+          "teamNameZh": "比利时",
+          "flag": "🇧🇪",
+          "position": "FW",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "kevin-de-bruyne",
+          "name": "Kevin De Bruyne",
+          "displayName": "丁丁",
+          "teamCode": "BEL",
+          "teamName": "Belgium",
+          "teamNameZh": "比利时",
+          "flag": "🇧🇪",
+          "position": "MF",
+          "clubStatus": "watched_departure",
+          "clubLabel": "离队仍关注"
+        }
+      ],
+      "involvedPlayers": [
+        {
+          "id": "jeremy-doku",
+          "name": "Jeremy Doku",
+          "displayName": "多库",
+          "teamCode": "BEL",
+          "teamName": "Belgium",
+          "teamNameZh": "比利时",
+          "flag": "🇧🇪",
+          "position": "FW",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "kevin-de-bruyne",
+          "name": "Kevin De Bruyne",
+          "displayName": "丁丁",
+          "teamCode": "BEL",
+          "teamName": "Belgium",
+          "teamNameZh": "比利时",
+          "flag": "🇧🇪",
+          "position": "MF",
+          "clubStatus": "watched_departure",
+          "clubLabel": "离队仍关注"
+        }
+      ],
       "potentialPlayers": [],
-      "isTracked": false,
+      "isTracked": true,
       "isPotentialTracked": false,
       "hasPlaceholder": true
     },
