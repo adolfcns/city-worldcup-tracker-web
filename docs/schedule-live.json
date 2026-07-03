@@ -1,6 +1,6 @@
 {
-  "cachedAt": 1783098502648,
-  "generatedAt": "2026-07-03T17:08:22.648Z",
+  "cachedAt": 1783104203295,
+  "generatedAt": "2026-07-03T18:43:23.295Z",
   "cacheHit": false,
   "sources": [
     {
@@ -4478,7 +4478,7 @@
       "group": "",
       "city": "East Rutherford",
       "venue": "metlife",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "civ",
         "code": "CIV",
@@ -4542,7 +4542,7 @@
       "group": "",
       "city": "Arlington",
       "venue": "cowboys",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "fra",
         "code": "FRA",
@@ -4606,7 +4606,7 @@
       "group": "",
       "city": "Mexico City",
       "venue": "azteca",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "mex",
         "code": "MEX",
@@ -4644,7 +4644,7 @@
       "group": "",
       "city": "Atlanta",
       "venue": "mercedes_benz",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "eng",
         "code": "ENG",
@@ -4780,7 +4780,7 @@
       "group": "",
       "city": "Santa Clara",
       "venue": "levis",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "bel",
         "code": "BEL",
@@ -4868,7 +4868,7 @@
       "group": "",
       "city": "Seattle",
       "venue": "seattle",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "usa",
         "code": "USA",
@@ -4906,7 +4906,7 @@
       "group": "",
       "city": "Toronto",
       "venue": "bmo",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "esp",
         "code": "ESP",
@@ -4970,7 +4970,7 @@
       "group": "",
       "city": "Inglewood",
       "venue": "sofi",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "por",
         "code": "POR",
@@ -5131,7 +5131,7 @@
       "group": "",
       "city": "Vancouver",
       "venue": "bc_place",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "sui",
         "code": "SUI",
