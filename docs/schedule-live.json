@@ -1,6 +1,6 @@
 {
-  "cachedAt": 1783084661705,
-  "generatedAt": "2026-07-03T13:17:41.705Z",
+  "cachedAt": 1783092674357,
+  "generatedAt": "2026-07-03T15:31:14.357Z",
   "cacheHit": false,
   "sources": [
     {
@@ -17,7 +17,7 @@
   ],
   "counts": {
     "totalMatches": 104,
-    "trackedConfirmed": 44,
+    "trackedConfirmed": 45,
     "trackedPotential": 0,
     "players": 20
   },
@@ -5665,32 +5665,131 @@
       "venue": "cowboys",
       "status": "placeholder",
       "homeTeam": {
-        "id": "",
-        "code": "",
-        "name": "W83",
-        "nameZh": "W83",
-        "group": "",
-        "placeholder": true
+        "id": "por",
+        "code": "POR",
+        "name": "Portugal",
+        "nameZh": "葡萄牙",
+        "group": "K",
+        "placeholder": false
       },
       "awayTeam": {
-        "id": "",
-        "code": "",
-        "name": "W84",
-        "nameZh": "W84",
-        "group": "",
-        "placeholder": true
+        "id": "esp",
+        "code": "ESP",
+        "name": "Spain",
+        "nameZh": "西班牙",
+        "group": "H",
+        "placeholder": false
       },
       "source": "GoalPulse",
       "apiId": null,
       "url": "",
       "fallbackSource": "openfootball",
-      "homePlayers": [],
-      "awayPlayers": [],
-      "involvedPlayers": [],
+      "homePlayers": [
+        {
+          "id": "ruben-dias",
+          "name": "Ruben Dias",
+          "displayName": "鲁本-迪亚斯",
+          "teamCode": "POR",
+          "teamName": "Portugal",
+          "teamNameZh": "葡萄牙",
+          "flag": "🇵🇹",
+          "position": "DF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "matheus-nunes",
+          "name": "Matheus Nunes",
+          "displayName": "马特乌斯-努内斯",
+          "teamCode": "POR",
+          "teamName": "Portugal",
+          "teamNameZh": "葡萄牙",
+          "flag": "🇵🇹",
+          "position": "MF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "bernardo-silva",
+          "name": "Bernardo Silva",
+          "displayName": "B席",
+          "teamCode": "POR",
+          "teamName": "Portugal",
+          "teamNameZh": "葡萄牙",
+          "flag": "🇵🇹",
+          "position": "MF",
+          "clubStatus": "watched_departure",
+          "clubLabel": "离队仍关注"
+        }
+      ],
+      "awayPlayers": [
+        {
+          "id": "rodri",
+          "name": "Rodri",
+          "displayName": "罗德里",
+          "teamCode": "ESP",
+          "teamName": "Spain",
+          "teamNameZh": "西班牙",
+          "flag": "🇪🇸",
+          "position": "MF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        }
+      ],
+      "involvedPlayers": [
+        {
+          "id": "ruben-dias",
+          "name": "Ruben Dias",
+          "displayName": "鲁本-迪亚斯",
+          "teamCode": "POR",
+          "teamName": "Portugal",
+          "teamNameZh": "葡萄牙",
+          "flag": "🇵🇹",
+          "position": "DF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "matheus-nunes",
+          "name": "Matheus Nunes",
+          "displayName": "马特乌斯-努内斯",
+          "teamCode": "POR",
+          "teamName": "Portugal",
+          "teamNameZh": "葡萄牙",
+          "flag": "🇵🇹",
+          "position": "MF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "bernardo-silva",
+          "name": "Bernardo Silva",
+          "displayName": "B席",
+          "teamCode": "POR",
+          "teamName": "Portugal",
+          "teamNameZh": "葡萄牙",
+          "flag": "🇵🇹",
+          "position": "MF",
+          "clubStatus": "watched_departure",
+          "clubLabel": "离队仍关注"
+        },
+        {
+          "id": "rodri",
+          "name": "Rodri",
+          "displayName": "罗德里",
+          "teamCode": "ESP",
+          "teamName": "Spain",
+          "teamNameZh": "西班牙",
+          "flag": "🇪🇸",
+          "position": "MF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        }
+      ],
       "potentialPlayers": [],
-      "isTracked": false,
+      "isTracked": true,
       "isPotentialTracked": false,
-      "hasPlaceholder": true
+      "hasPlaceholder": false
     },
     {
       "id": "m094",
@@ -5829,12 +5928,12 @@
       "venue": "bc_place",
       "status": "placeholder",
       "homeTeam": {
-        "id": "",
-        "code": "",
-        "name": "W85",
-        "nameZh": "W85",
-        "group": "",
-        "placeholder": true
+        "id": "sui",
+        "code": "SUI",
+        "name": "Switzerland",
+        "nameZh": "瑞士",
+        "group": "B",
+        "placeholder": false
       },
       "awayTeam": {
         "id": "",
