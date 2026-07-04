@@ -1,6 +1,6 @@
 {
-  "cachedAt": 1783179434241,
-  "generatedAt": "2026-07-04T15:37:14.241Z",
+  "cachedAt": 1783183700077,
+  "generatedAt": "2026-07-04T16:48:20.077Z",
   "cacheHit": false,
   "sources": [
     {
@@ -5195,7 +5195,7 @@
       "group": "",
       "city": "Miami Gardens",
       "venue": "hardrock",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "aus",
         "code": "AUS",
@@ -5259,7 +5259,7 @@
       "group": "",
       "city": "Kansas City",
       "venue": "arrowhead",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "arg",
         "code": "ARG",
@@ -5297,7 +5297,7 @@
       "group": "",
       "city": "Arlington",
       "venue": "cowboys",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "col",
         "code": "COL",
@@ -5361,13 +5361,13 @@
       "group": "",
       "city": "Houston",
       "venue": "nrg",
-      "status": "placeholder",
+      "status": "scheduled",
       "homeTeam": {
         "id": "can",
         "code": "CAN",
         "name": "Canada",
         "nameZh": "加拿大",
-        "group": "B",
+        "group": "",
         "placeholder": false
       },
       "awayTeam": {
@@ -5375,12 +5375,12 @@
         "code": "MAR",
         "name": "Morocco",
         "nameZh": "摩洛哥",
-        "group": "C",
+        "group": "",
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": null,
-      "url": "",
+      "apiId": 1567824,
+      "url": "https://goalpulse.io/zh/matches/can-vs-mar-m090",
       "fallbackSource": "openfootball",
       "homePlayers": [],
       "awayPlayers": [],
@@ -5399,13 +5399,13 @@
       "group": "",
       "city": "Philadelphia",
       "venue": "lincoln",
-      "status": "placeholder",
+      "status": "scheduled",
       "homeTeam": {
         "id": "par",
         "code": "PAR",
         "name": "Paraguay",
         "nameZh": "巴拉圭",
-        "group": "D",
+        "group": "",
         "placeholder": false
       },
       "awayTeam": {
@@ -5413,12 +5413,12 @@
         "code": "FRA",
         "name": "France",
         "nameZh": "法国",
-        "group": "I",
+        "group": "",
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": null,
-      "url": "",
+      "apiId": 1569870,
+      "url": "https://goalpulse.io/zh/matches/par-vs-fra-m089",
       "fallbackSource": "openfootball",
       "homePlayers": [],
       "awayPlayers": [
@@ -5463,13 +5463,13 @@
       "group": "",
       "city": "East Rutherford",
       "venue": "metlife",
-      "status": "placeholder",
+      "status": "scheduled",
       "homeTeam": {
         "id": "bra",
         "code": "BRA",
         "name": "Brazil",
         "nameZh": "巴西",
-        "group": "C",
+        "group": "",
         "placeholder": false
       },
       "awayTeam": {
@@ -5477,12 +5477,12 @@
         "code": "NOR",
         "name": "Norway",
         "nameZh": "挪威",
-        "group": "I",
+        "group": "",
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": null,
-      "url": "",
+      "apiId": 1568100,
+      "url": "https://goalpulse.io/zh/matches/bra-vs-nor-m091",
       "fallbackSource": "openfootball",
       "homePlayers": [],
       "awayPlayers": [
@@ -5527,13 +5527,13 @@
       "group": "",
       "city": "Mexico City",
       "venue": "azteca",
-      "status": "placeholder",
+      "status": "scheduled",
       "homeTeam": {
         "id": "mex",
         "code": "MEX",
         "name": "Mexico",
         "nameZh": "墨西哥",
-        "group": "A",
+        "group": "",
         "placeholder": false
       },
       "awayTeam": {
@@ -5541,12 +5541,12 @@
         "code": "ENG",
         "name": "England",
         "nameZh": "英格兰",
-        "group": "L",
+        "group": "",
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": null,
-      "url": "",
+      "apiId": 1570714,
+      "url": "https://goalpulse.io/zh/matches/mex-vs-eng-m092",
       "fallbackSource": "openfootball",
       "homePlayers": [],
       "awayPlayers": [
@@ -5663,13 +5663,13 @@
       "group": "",
       "city": "Arlington",
       "venue": "cowboys",
-      "status": "placeholder",
+      "status": "scheduled",
       "homeTeam": {
         "id": "por",
         "code": "POR",
         "name": "Portugal",
         "nameZh": "葡萄牙",
-        "group": "K",
+        "group": "",
         "placeholder": false
       },
       "awayTeam": {
@@ -5677,12 +5677,12 @@
         "code": "ESP",
         "name": "Spain",
         "nameZh": "西班牙",
-        "group": "H",
+        "group": "",
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": null,
-      "url": "",
+      "apiId": 1576756,
+      "url": "https://goalpulse.io/zh/matches/por-vs-esp-m093",
       "fallbackSource": "openfootball",
       "homePlayers": [
         {
@@ -5800,26 +5800,26 @@
       "group": "",
       "city": "Seattle",
       "venue": "seattle",
-      "status": "placeholder",
+      "status": "scheduled",
       "homeTeam": {
-        "id": "",
-        "code": "",
-        "name": "USA",
-        "nameZh": "USA",
+        "id": "usa",
+        "code": "USA",
+        "name": "United States",
+        "nameZh": "美国",
         "group": "",
-        "placeholder": true
+        "placeholder": false
       },
       "awayTeam": {
         "id": "bel",
         "code": "BEL",
         "name": "Belgium",
         "nameZh": "比利时",
-        "group": "G",
+        "group": "",
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": null,
-      "url": "",
+      "apiId": 1570715,
+      "url": "https://goalpulse.io/zh/matches/usa-vs-bel-m094",
       "fallbackSource": "openfootball",
       "homePlayers": [],
       "awayPlayers": [
@@ -5877,7 +5877,7 @@
       "potentialPlayers": [],
       "isTracked": true,
       "isPotentialTracked": false,
-      "hasPlaceholder": true
+      "hasPlaceholder": false
     },
     {
       "id": "m095",
@@ -5888,13 +5888,13 @@
       "group": "",
       "city": "Atlanta",
       "venue": "mercedes_benz",
-      "status": "placeholder",
+      "status": "scheduled",
       "homeTeam": {
         "id": "arg",
         "code": "ARG",
         "name": "Argentina",
         "nameZh": "阿根廷",
-        "group": "J",
+        "group": "",
         "placeholder": false
       },
       "awayTeam": {
@@ -5902,12 +5902,12 @@
         "code": "EGY",
         "name": "Egypt",
         "nameZh": "埃及",
-        "group": "G",
+        "group": "",
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": null,
-      "url": "",
+      "apiId": 1576804,
+      "url": "https://goalpulse.io/zh/matches/arg-vs-egy-m095",
       "fallbackSource": "openfootball",
       "homePlayers": [],
       "awayPlayers": [
@@ -5952,13 +5952,13 @@
       "group": "",
       "city": "Vancouver",
       "venue": "bc_place",
-      "status": "placeholder",
+      "status": "scheduled",
       "homeTeam": {
         "id": "sui",
         "code": "SUI",
         "name": "Switzerland",
         "nameZh": "瑞士",
-        "group": "B",
+        "group": "",
         "placeholder": false
       },
       "awayTeam": {
@@ -5966,12 +5966,12 @@
         "code": "COL",
         "name": "Colombia",
         "nameZh": "哥伦比亚",
-        "group": "K",
+        "group": "",
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": null,
-      "url": "",
+      "apiId": 1576805,
+      "url": "https://goalpulse.io/zh/matches/sui-vs-col-m096",
       "fallbackSource": "openfootball",
       "homePlayers": [],
       "awayPlayers": [],
