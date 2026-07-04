@@ -1,6 +1,6 @@
 {
-  "cachedAt": 1783160976904,
-  "generatedAt": "2026-07-04T10:29:36.904Z",
+  "cachedAt": 1783165873239,
+  "generatedAt": "2026-07-04T11:51:13.239Z",
   "cacheHit": false,
   "sources": [
     {
@@ -17,7 +17,7 @@
   ],
   "counts": {
     "totalMatches": 104,
-    "trackedConfirmed": 45,
+    "trackedConfirmed": 46,
     "trackedPotential": 0,
     "players": 20
   },
@@ -5890,32 +5890,58 @@
       "venue": "mercedes_benz",
       "status": "placeholder",
       "homeTeam": {
-        "id": "",
-        "code": "",
-        "name": "W86",
-        "nameZh": "W86",
-        "group": "",
-        "placeholder": true
+        "id": "arg",
+        "code": "ARG",
+        "name": "Argentina",
+        "nameZh": "阿根廷",
+        "group": "J",
+        "placeholder": false
       },
       "awayTeam": {
-        "id": "",
-        "code": "",
-        "name": "W88",
-        "nameZh": "W88",
-        "group": "",
-        "placeholder": true
+        "id": "egy",
+        "code": "EGY",
+        "name": "Egypt",
+        "nameZh": "埃及",
+        "group": "G",
+        "placeholder": false
       },
       "source": "GoalPulse",
       "apiId": null,
       "url": "",
       "fallbackSource": "openfootball",
       "homePlayers": [],
-      "awayPlayers": [],
-      "involvedPlayers": [],
+      "awayPlayers": [
+        {
+          "id": "omar-marmoush",
+          "name": "Omar Marmoush",
+          "displayName": "马尔穆什",
+          "teamCode": "EGY",
+          "teamName": "Egypt",
+          "teamNameZh": "埃及",
+          "flag": "🇪🇬",
+          "position": "FW",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        }
+      ],
+      "involvedPlayers": [
+        {
+          "id": "omar-marmoush",
+          "name": "Omar Marmoush",
+          "displayName": "马尔穆什",
+          "teamCode": "EGY",
+          "teamName": "Egypt",
+          "teamNameZh": "埃及",
+          "flag": "🇪🇬",
+          "position": "FW",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        }
+      ],
       "potentialPlayers": [],
-      "isTracked": false,
+      "isTracked": true,
       "isPotentialTracked": false,
-      "hasPlaceholder": true
+      "hasPlaceholder": false
     },
     {
       "id": "m096",
@@ -5936,12 +5962,12 @@
         "placeholder": false
       },
       "awayTeam": {
-        "id": "",
-        "code": "",
-        "name": "W87",
-        "nameZh": "W87",
-        "group": "",
-        "placeholder": true
+        "id": "col",
+        "code": "COL",
+        "name": "Colombia",
+        "nameZh": "哥伦比亚",
+        "group": "K",
+        "placeholder": false
       },
       "source": "GoalPulse",
       "apiId": null,
@@ -5953,7 +5979,7 @@
       "potentialPlayers": [],
       "isTracked": false,
       "isPotentialTracked": false,
-      "hasPlaceholder": true
+      "hasPlaceholder": false
     },
     {
       "id": "m097",
