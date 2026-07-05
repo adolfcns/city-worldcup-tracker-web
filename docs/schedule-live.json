@@ -1,6 +1,6 @@
 {
-  "cachedAt": 1783207643892,
-  "generatedAt": "2026-07-04T23:27:23.892Z",
+  "cachedAt": 1783213985252,
+  "generatedAt": "2026-07-05T01:13:05.252Z",
   "cacheHit": false,
   "sources": [
     {
@@ -5361,7 +5361,7 @@
       "group": "",
       "city": "Houston",
       "venue": "nrg",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "can",
         "code": "CAN",
@@ -5399,7 +5399,7 @@
       "group": "",
       "city": "Philadelphia",
       "venue": "lincoln",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "par",
         "code": "PAR",
