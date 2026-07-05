@@ -1,6 +1,6 @@
 {
-  "cachedAt": 1783253229726,
-  "generatedAt": "2026-07-05T12:07:09.726Z",
+  "cachedAt": 1783260797135,
+  "generatedAt": "2026-07-05T14:13:17.135Z",
   "cacheHit": false,
   "sources": [
     {
@@ -17,7 +17,7 @@
   ],
   "counts": {
     "totalMatches": 104,
-    "trackedConfirmed": 46,
+    "trackedConfirmed": 47,
     "trackedPotential": 0,
     "players": 20
   },
@@ -5990,34 +5990,60 @@
       "group": "",
       "city": "Foxborough",
       "venue": "gillette",
-      "status": "placeholder",
+      "status": "scheduled",
       "homeTeam": {
-        "id": "",
-        "code": "",
-        "name": "W89",
-        "nameZh": "W89",
+        "id": "fra",
+        "code": "FRA",
+        "name": "France",
+        "nameZh": "法国",
         "group": "",
-        "placeholder": true
+        "placeholder": false
       },
       "awayTeam": {
-        "id": "",
-        "code": "",
-        "name": "W90",
-        "nameZh": "W90",
+        "id": "mar",
+        "code": "MAR",
+        "name": "Morocco",
+        "nameZh": "摩洛哥",
         "group": "",
-        "placeholder": true
+        "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": null,
-      "url": "",
+      "apiId": 1578539,
+      "url": "https://goalpulse.io/zh/matches/fra-vs-mar-m097",
       "fallbackSource": "openfootball",
-      "homePlayers": [],
+      "homePlayers": [
+        {
+          "id": "rayan-cherki",
+          "name": "Rayan Cherki",
+          "displayName": "切尔基",
+          "teamCode": "FRA",
+          "teamName": "France",
+          "teamNameZh": "法国",
+          "flag": "🇫🇷",
+          "position": "MF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        }
+      ],
       "awayPlayers": [],
-      "involvedPlayers": [],
+      "involvedPlayers": [
+        {
+          "id": "rayan-cherki",
+          "name": "Rayan Cherki",
+          "displayName": "切尔基",
+          "teamCode": "FRA",
+          "teamName": "France",
+          "teamNameZh": "法国",
+          "flag": "🇫🇷",
+          "position": "MF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        }
+      ],
       "potentialPlayers": [],
-      "isTracked": false,
+      "isTracked": true,
       "isPotentialTracked": false,
-      "hasPlaceholder": true
+      "hasPlaceholder": false
     },
     {
       "id": "m098",
