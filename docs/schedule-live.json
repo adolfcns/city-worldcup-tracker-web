@@ -1,6 +1,6 @@
 {
-  "cachedAt": 1783336163730,
-  "generatedAt": "2026-07-06T11:09:23.730Z",
+  "cachedAt": 1783348808197,
+  "generatedAt": "2026-07-06T14:40:08.197Z",
   "cacheHit": false,
   "sources": [
     {
@@ -17,7 +17,7 @@
   ],
   "counts": {
     "totalMatches": 104,
-    "trackedConfirmed": 47,
+    "trackedConfirmed": 48,
     "trackedPotential": 0,
     "players": 20
   },
@@ -6094,32 +6094,155 @@
       "venue": "hardrock",
       "status": "placeholder",
       "homeTeam": {
-        "id": "",
-        "code": "",
-        "name": "W91",
-        "nameZh": "W91",
-        "group": "",
-        "placeholder": true
+        "id": "nor",
+        "code": "NOR",
+        "name": "Norway",
+        "nameZh": "挪威",
+        "group": "I",
+        "placeholder": false
       },
       "awayTeam": {
-        "id": "",
-        "code": "",
-        "name": "W92",
-        "nameZh": "W92",
-        "group": "",
-        "placeholder": true
+        "id": "eng",
+        "code": "ENG",
+        "name": "England",
+        "nameZh": "英格兰",
+        "group": "L",
+        "placeholder": false
       },
       "source": "GoalPulse",
       "apiId": null,
       "url": "",
       "fallbackSource": "openfootball",
-      "homePlayers": [],
-      "awayPlayers": [],
-      "involvedPlayers": [],
+      "homePlayers": [
+        {
+          "id": "erling-haaland",
+          "name": "Erling Haaland",
+          "displayName": "哈兰德",
+          "teamCode": "NOR",
+          "teamName": "Norway",
+          "teamNameZh": "挪威",
+          "flag": "🇳🇴",
+          "position": "FW",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        }
+      ],
+      "awayPlayers": [
+        {
+          "id": "nico-oreilly",
+          "name": "Nico O'Reilly",
+          "displayName": "尼科-奥赖利",
+          "teamCode": "ENG",
+          "teamName": "England",
+          "teamNameZh": "英格兰",
+          "flag": "🏴",
+          "position": "DF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "john-stones",
+          "name": "John Stones",
+          "displayName": "斯通斯",
+          "teamCode": "ENG",
+          "teamName": "England",
+          "teamNameZh": "英格兰",
+          "flag": "🏴",
+          "position": "DF",
+          "clubStatus": "watched_departure",
+          "clubLabel": "离队仍关注"
+        },
+        {
+          "id": "marc-guehi",
+          "name": "Marc Guehi",
+          "displayName": "格伊",
+          "teamCode": "ENG",
+          "teamName": "England",
+          "teamNameZh": "英格兰",
+          "flag": "🏴",
+          "position": "DF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "james-trafford",
+          "name": "James Trafford",
+          "displayName": "特拉福德",
+          "teamCode": "ENG",
+          "teamName": "England",
+          "teamNameZh": "英格兰",
+          "flag": "🏴",
+          "position": "GK",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        }
+      ],
+      "involvedPlayers": [
+        {
+          "id": "erling-haaland",
+          "name": "Erling Haaland",
+          "displayName": "哈兰德",
+          "teamCode": "NOR",
+          "teamName": "Norway",
+          "teamNameZh": "挪威",
+          "flag": "🇳🇴",
+          "position": "FW",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "nico-oreilly",
+          "name": "Nico O'Reilly",
+          "displayName": "尼科-奥赖利",
+          "teamCode": "ENG",
+          "teamName": "England",
+          "teamNameZh": "英格兰",
+          "flag": "🏴",
+          "position": "DF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "john-stones",
+          "name": "John Stones",
+          "displayName": "斯通斯",
+          "teamCode": "ENG",
+          "teamName": "England",
+          "teamNameZh": "英格兰",
+          "flag": "🏴",
+          "position": "DF",
+          "clubStatus": "watched_departure",
+          "clubLabel": "离队仍关注"
+        },
+        {
+          "id": "marc-guehi",
+          "name": "Marc Guehi",
+          "displayName": "格伊",
+          "teamCode": "ENG",
+          "teamName": "England",
+          "teamNameZh": "英格兰",
+          "flag": "🏴",
+          "position": "DF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "james-trafford",
+          "name": "James Trafford",
+          "displayName": "特拉福德",
+          "teamCode": "ENG",
+          "teamName": "England",
+          "teamNameZh": "英格兰",
+          "flag": "🏴",
+          "position": "GK",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        }
+      ],
       "potentialPlayers": [],
-      "isTracked": false,
+      "isTracked": true,
       "isPotentialTracked": false,
-      "hasPlaceholder": true
+      "hasPlaceholder": false
     },
     {
       "id": "m100",
