@@ -1,6 +1,6 @@
 {
-  "cachedAt": 1783415959080,
-  "generatedAt": "2026-07-07T09:19:19.080Z",
+  "cachedAt": 1783426382452,
+  "generatedAt": "2026-07-07T12:13:02.452Z",
   "cacheHit": false,
   "sources": [
     {
@@ -17,7 +17,7 @@
   ],
   "counts": {
     "totalMatches": 104,
-    "trackedConfirmed": 48,
+    "trackedConfirmed": 49,
     "trackedPotential": 0,
     "players": 20
   },
@@ -6056,32 +6056,107 @@
       "venue": "sofi",
       "status": "placeholder",
       "homeTeam": {
-        "id": "",
-        "code": "",
-        "name": "W93",
-        "nameZh": "W93",
-        "group": "",
-        "placeholder": true
+        "id": "esp",
+        "code": "ESP",
+        "name": "Spain",
+        "nameZh": "西班牙",
+        "group": "H",
+        "placeholder": false
       },
       "awayTeam": {
-        "id": "",
-        "code": "",
-        "name": "W94",
-        "nameZh": "W94",
-        "group": "",
-        "placeholder": true
+        "id": "bel",
+        "code": "BEL",
+        "name": "Belgium",
+        "nameZh": "比利时",
+        "group": "G",
+        "placeholder": false
       },
       "source": "GoalPulse",
       "apiId": null,
       "url": "",
       "fallbackSource": "openfootball",
-      "homePlayers": [],
-      "awayPlayers": [],
-      "involvedPlayers": [],
+      "homePlayers": [
+        {
+          "id": "rodri",
+          "name": "Rodri",
+          "displayName": "罗德里",
+          "teamCode": "ESP",
+          "teamName": "Spain",
+          "teamNameZh": "西班牙",
+          "flag": "🇪🇸",
+          "position": "MF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        }
+      ],
+      "awayPlayers": [
+        {
+          "id": "jeremy-doku",
+          "name": "Jeremy Doku",
+          "displayName": "多库",
+          "teamCode": "BEL",
+          "teamName": "Belgium",
+          "teamNameZh": "比利时",
+          "flag": "🇧🇪",
+          "position": "FW",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "kevin-de-bruyne",
+          "name": "Kevin De Bruyne",
+          "displayName": "丁丁",
+          "teamCode": "BEL",
+          "teamName": "Belgium",
+          "teamNameZh": "比利时",
+          "flag": "🇧🇪",
+          "position": "MF",
+          "clubStatus": "watched_departure",
+          "clubLabel": "离队仍关注"
+        }
+      ],
+      "involvedPlayers": [
+        {
+          "id": "rodri",
+          "name": "Rodri",
+          "displayName": "罗德里",
+          "teamCode": "ESP",
+          "teamName": "Spain",
+          "teamNameZh": "西班牙",
+          "flag": "🇪🇸",
+          "position": "MF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "jeremy-doku",
+          "name": "Jeremy Doku",
+          "displayName": "多库",
+          "teamCode": "BEL",
+          "teamName": "Belgium",
+          "teamNameZh": "比利时",
+          "flag": "🇧🇪",
+          "position": "FW",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "kevin-de-bruyne",
+          "name": "Kevin De Bruyne",
+          "displayName": "丁丁",
+          "teamCode": "BEL",
+          "teamName": "Belgium",
+          "teamNameZh": "比利时",
+          "flag": "🇧🇪",
+          "position": "MF",
+          "clubStatus": "watched_departure",
+          "clubLabel": "离队仍关注"
+        }
+      ],
       "potentialPlayers": [],
-      "isTracked": false,
+      "isTracked": true,
       "isPotentialTracked": false,
-      "hasPlaceholder": true
+      "hasPlaceholder": false
     },
     {
       "id": "m099",
