@@ -1,6 +1,6 @@
 {
-  "cachedAt": 1783473531386,
-  "generatedAt": "2026-07-08T01:18:51.386Z",
+  "cachedAt": 1783485526661,
+  "generatedAt": "2026-07-08T04:38:46.661Z",
   "cacheHit": false,
   "sources": [
     {
@@ -5463,7 +5463,7 @@
       "group": "",
       "city": "East Rutherford",
       "venue": "metlife",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "bra",
         "code": "BRA",
@@ -5527,7 +5527,7 @@
       "group": "",
       "city": "Mexico City",
       "venue": "azteca",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "mex",
         "code": "MEX",
@@ -5663,7 +5663,7 @@
       "group": "",
       "city": "Arlington",
       "venue": "cowboys",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "por",
         "code": "POR",
@@ -5800,7 +5800,7 @@
       "group": "",
       "city": "Seattle",
       "venue": "seattle",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "usa",
         "code": "USA",
@@ -5888,7 +5888,7 @@
       "group": "",
       "city": "Atlanta",
       "venue": "mercedes_benz",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "arg",
         "code": "ARG",
@@ -5952,7 +5952,7 @@
       "group": "",
       "city": "Vancouver",
       "venue": "bc_place",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "sui",
         "code": "SUI",
@@ -6054,13 +6054,13 @@
       "group": "",
       "city": "Inglewood",
       "venue": "sofi",
-      "status": "placeholder",
+      "status": "scheduled",
       "homeTeam": {
         "id": "esp",
         "code": "ESP",
         "name": "Spain",
         "nameZh": "西班牙",
-        "group": "H",
+        "group": "",
         "placeholder": false
       },
       "awayTeam": {
@@ -6068,12 +6068,12 @@
         "code": "BEL",
         "name": "Belgium",
         "nameZh": "比利时",
-        "group": "G",
+        "group": "",
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": null,
-      "url": "",
+      "apiId": 1581821,
+      "url": "https://goalpulse.io/zh/matches/esp-vs-bel-m098",
       "fallbackSource": "openfootball",
       "homePlayers": [
         {
@@ -6167,13 +6167,13 @@
       "group": "",
       "city": "Miami Gardens",
       "venue": "hardrock",
-      "status": "placeholder",
+      "status": "scheduled",
       "homeTeam": {
         "id": "nor",
         "code": "NOR",
         "name": "Norway",
         "nameZh": "挪威",
-        "group": "I",
+        "group": "",
         "placeholder": false
       },
       "awayTeam": {
@@ -6181,12 +6181,12 @@
         "code": "ENG",
         "name": "England",
         "nameZh": "英格兰",
-        "group": "L",
+        "group": "",
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": null,
-      "url": "",
+      "apiId": 1581037,
+      "url": "https://goalpulse.io/zh/matches/nor-vs-eng-m099",
       "fallbackSource": "openfootball",
       "homePlayers": [
         {
@@ -6328,26 +6328,26 @@
       "group": "",
       "city": "Kansas City",
       "venue": "arrowhead",
-      "status": "placeholder",
+      "status": "scheduled",
       "homeTeam": {
-        "id": "",
-        "code": "",
-        "name": "W95",
-        "nameZh": "W95",
+        "id": "arg",
+        "code": "ARG",
+        "name": "Argentina",
+        "nameZh": "阿根廷",
         "group": "",
-        "placeholder": true
+        "placeholder": false
       },
       "awayTeam": {
-        "id": "",
-        "code": "",
-        "name": "W96",
-        "nameZh": "W96",
+        "id": "sui",
+        "code": "SUI",
+        "name": "Switzerland",
+        "nameZh": "瑞士",
         "group": "",
-        "placeholder": true
+        "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": null,
-      "url": "",
+      "apiId": 1582681,
+      "url": "https://goalpulse.io/zh/matches/arg-vs-sui-m100",
       "fallbackSource": "openfootball",
       "homePlayers": [],
       "awayPlayers": [],
@@ -6355,7 +6355,7 @@
       "potentialPlayers": [],
       "isTracked": false,
       "isPotentialTracked": false,
-      "hasPlaceholder": true
+      "hasPlaceholder": false
     },
     {
       "id": "m101",
