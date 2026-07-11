@@ -1,6 +1,6 @@
 {
-  "cachedAt": 1783773883856,
-  "generatedAt": "2026-07-11T12:44:43.856Z",
+  "cachedAt": 1783779330708,
+  "generatedAt": "2026-07-11T14:15:30.708Z",
   "cacheHit": false,
   "sources": [
     {
@@ -17,7 +17,7 @@
   ],
   "counts": {
     "totalMatches": 104,
-    "trackedConfirmed": 49,
+    "trackedConfirmed": 50,
     "trackedPotential": 0,
     "players": 20
   },
@@ -6368,32 +6368,83 @@
       "venue": "cowboys",
       "status": "placeholder",
       "homeTeam": {
-        "id": "",
-        "code": "",
-        "name": "W97",
-        "nameZh": "W97",
-        "group": "",
-        "placeholder": true
+        "id": "fra",
+        "code": "FRA",
+        "name": "France",
+        "nameZh": "法国",
+        "group": "I",
+        "placeholder": false
       },
       "awayTeam": {
-        "id": "",
-        "code": "",
-        "name": "W98",
-        "nameZh": "W98",
-        "group": "",
-        "placeholder": true
+        "id": "esp",
+        "code": "ESP",
+        "name": "Spain",
+        "nameZh": "西班牙",
+        "group": "H",
+        "placeholder": false
       },
       "source": "GoalPulse",
       "apiId": null,
       "url": "",
       "fallbackSource": "openfootball",
-      "homePlayers": [],
-      "awayPlayers": [],
-      "involvedPlayers": [],
+      "homePlayers": [
+        {
+          "id": "rayan-cherki",
+          "name": "Rayan Cherki",
+          "displayName": "切尔基",
+          "teamCode": "FRA",
+          "teamName": "France",
+          "teamNameZh": "法国",
+          "flag": "🇫🇷",
+          "position": "MF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        }
+      ],
+      "awayPlayers": [
+        {
+          "id": "rodri",
+          "name": "Rodri",
+          "displayName": "罗德里",
+          "teamCode": "ESP",
+          "teamName": "Spain",
+          "teamNameZh": "西班牙",
+          "flag": "🇪🇸",
+          "position": "MF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        }
+      ],
+      "involvedPlayers": [
+        {
+          "id": "rayan-cherki",
+          "name": "Rayan Cherki",
+          "displayName": "切尔基",
+          "teamCode": "FRA",
+          "teamName": "France",
+          "teamNameZh": "法国",
+          "flag": "🇫🇷",
+          "position": "MF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "rodri",
+          "name": "Rodri",
+          "displayName": "罗德里",
+          "teamCode": "ESP",
+          "teamName": "Spain",
+          "teamNameZh": "西班牙",
+          "flag": "🇪🇸",
+          "position": "MF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        }
+      ],
       "potentialPlayers": [],
-      "isTracked": false,
+      "isTracked": true,
       "isPotentialTracked": false,
-      "hasPlaceholder": true
+      "hasPlaceholder": false
     },
     {
       "id": "m102",
