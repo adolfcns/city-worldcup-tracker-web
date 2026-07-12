@@ -1,6 +1,6 @@
 {
-  "cachedAt": 1783866025232,
-  "generatedAt": "2026-07-12T14:20:25.232Z",
+  "cachedAt": 1783870206566,
+  "generatedAt": "2026-07-12T15:30:06.566Z",
   "cacheHit": false,
   "sources": [
     {
@@ -17,7 +17,7 @@
   ],
   "counts": {
     "totalMatches": 104,
-    "trackedConfirmed": 50,
+    "trackedConfirmed": 51,
     "trackedPotential": 0,
     "players": 20
   },
@@ -6457,32 +6457,130 @@
       "venue": "mercedes_benz",
       "status": "placeholder",
       "homeTeam": {
-        "id": "",
-        "code": "",
-        "name": "W99",
-        "nameZh": "W99",
-        "group": "",
-        "placeholder": true
+        "id": "eng",
+        "code": "ENG",
+        "name": "England",
+        "nameZh": "英格兰",
+        "group": "L",
+        "placeholder": false
       },
       "awayTeam": {
-        "id": "",
-        "code": "",
-        "name": "W100",
-        "nameZh": "W100",
-        "group": "",
-        "placeholder": true
+        "id": "arg",
+        "code": "ARG",
+        "name": "Argentina",
+        "nameZh": "阿根廷",
+        "group": "J",
+        "placeholder": false
       },
       "source": "GoalPulse",
       "apiId": null,
       "url": "",
       "fallbackSource": "openfootball",
-      "homePlayers": [],
+      "homePlayers": [
+        {
+          "id": "nico-oreilly",
+          "name": "Nico O'Reilly",
+          "displayName": "尼科-奥赖利",
+          "teamCode": "ENG",
+          "teamName": "England",
+          "teamNameZh": "英格兰",
+          "flag": "🏴",
+          "position": "DF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "john-stones",
+          "name": "John Stones",
+          "displayName": "斯通斯",
+          "teamCode": "ENG",
+          "teamName": "England",
+          "teamNameZh": "英格兰",
+          "flag": "🏴",
+          "position": "DF",
+          "clubStatus": "watched_departure",
+          "clubLabel": "离队仍关注"
+        },
+        {
+          "id": "marc-guehi",
+          "name": "Marc Guehi",
+          "displayName": "格伊",
+          "teamCode": "ENG",
+          "teamName": "England",
+          "teamNameZh": "英格兰",
+          "flag": "🏴",
+          "position": "DF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "james-trafford",
+          "name": "James Trafford",
+          "displayName": "特拉福德",
+          "teamCode": "ENG",
+          "teamName": "England",
+          "teamNameZh": "英格兰",
+          "flag": "🏴",
+          "position": "GK",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        }
+      ],
       "awayPlayers": [],
-      "involvedPlayers": [],
+      "involvedPlayers": [
+        {
+          "id": "nico-oreilly",
+          "name": "Nico O'Reilly",
+          "displayName": "尼科-奥赖利",
+          "teamCode": "ENG",
+          "teamName": "England",
+          "teamNameZh": "英格兰",
+          "flag": "🏴",
+          "position": "DF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "john-stones",
+          "name": "John Stones",
+          "displayName": "斯通斯",
+          "teamCode": "ENG",
+          "teamName": "England",
+          "teamNameZh": "英格兰",
+          "flag": "🏴",
+          "position": "DF",
+          "clubStatus": "watched_departure",
+          "clubLabel": "离队仍关注"
+        },
+        {
+          "id": "marc-guehi",
+          "name": "Marc Guehi",
+          "displayName": "格伊",
+          "teamCode": "ENG",
+          "teamName": "England",
+          "teamNameZh": "英格兰",
+          "flag": "🏴",
+          "position": "DF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "james-trafford",
+          "name": "James Trafford",
+          "displayName": "特拉福德",
+          "teamCode": "ENG",
+          "teamName": "England",
+          "teamNameZh": "英格兰",
+          "flag": "🏴",
+          "position": "GK",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        }
+      ],
       "potentialPlayers": [],
-      "isTracked": false,
+      "isTracked": true,
       "isPotentialTracked": false,
-      "hasPlaceholder": true
+      "hasPlaceholder": false
     },
     {
       "id": "m103",
