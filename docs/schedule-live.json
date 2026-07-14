@@ -1,6 +1,6 @@
 {
-  "cachedAt": 1784064440070,
-  "generatedAt": "2026-07-14T21:27:20.070Z",
+  "cachedAt": 1784068109995,
+  "generatedAt": "2026-07-14T22:28:29.995Z",
   "cacheHit": false,
   "sources": [
     {
@@ -6366,7 +6366,7 @@
       "group": "",
       "city": "Arlington",
       "venue": "cowboys",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "fra",
         "code": "FRA",
