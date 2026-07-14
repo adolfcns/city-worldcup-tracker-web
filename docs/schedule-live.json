@@ -1,6 +1,6 @@
 {
-  "cachedAt": 1784045183447,
-  "generatedAt": "2026-07-14T16:06:23.447Z",
+  "cachedAt": 1784050672792,
+  "generatedAt": "2026-07-14T17:37:52.792Z",
   "cacheHit": false,
   "sources": [
     {
@@ -5990,7 +5990,7 @@
       "group": "",
       "city": "Foxborough",
       "venue": "gillette",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "fra",
         "code": "FRA",
@@ -6054,7 +6054,7 @@
       "group": "",
       "city": "Inglewood",
       "venue": "sofi",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "esp",
         "code": "ESP",
@@ -6167,7 +6167,7 @@
       "group": "",
       "city": "Miami Gardens",
       "venue": "hardrock",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "nor",
         "code": "NOR",
@@ -6328,7 +6328,7 @@
       "group": "",
       "city": "Kansas City",
       "venue": "arrowhead",
-      "status": "scheduled",
+      "status": "ft",
       "homeTeam": {
         "id": "arg",
         "code": "ARG",
@@ -6366,13 +6366,13 @@
       "group": "",
       "city": "Arlington",
       "venue": "cowboys",
-      "status": "placeholder",
+      "status": "scheduled",
       "homeTeam": {
         "id": "fra",
         "code": "FRA",
         "name": "France",
         "nameZh": "法国",
-        "group": "I",
+        "group": "",
         "placeholder": false
       },
       "awayTeam": {
@@ -6380,12 +6380,12 @@
         "code": "ESP",
         "name": "Spain",
         "nameZh": "西班牙",
-        "group": "H",
+        "group": "",
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": null,
-      "url": "",
+      "apiId": 1585131,
+      "url": "https://goalpulse.io/zh/matches/fra-vs-esp-m101",
       "fallbackSource": "openfootball",
       "homePlayers": [
         {
@@ -6455,13 +6455,13 @@
       "group": "",
       "city": "Atlanta",
       "venue": "mercedes_benz",
-      "status": "placeholder",
+      "status": "scheduled",
       "homeTeam": {
         "id": "eng",
         "code": "ENG",
         "name": "England",
         "nameZh": "英格兰",
-        "group": "L",
+        "group": "",
         "placeholder": false
       },
       "awayTeam": {
@@ -6469,12 +6469,12 @@
         "code": "ARG",
         "name": "Argentina",
         "nameZh": "阿根廷",
-        "group": "J",
+        "group": "",
         "placeholder": false
       },
       "source": "GoalPulse",
-      "apiId": null,
-      "url": "",
+      "apiId": 1586077,
+      "url": "https://goalpulse.io/zh/matches/eng-vs-arg-m102",
       "fallbackSource": "openfootball",
       "homePlayers": [
         {
