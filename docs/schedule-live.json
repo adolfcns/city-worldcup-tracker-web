@@ -1,6 +1,6 @@
 {
-  "cachedAt": 1784095443800,
-  "generatedAt": "2026-07-15T06:04:03.800Z",
+  "cachedAt": 1784104774076,
+  "generatedAt": "2026-07-15T08:39:34.076Z",
   "cacheHit": false,
   "sources": [
     {
@@ -17,7 +17,7 @@
   ],
   "counts": {
     "totalMatches": 104,
-    "trackedConfirmed": 51,
+    "trackedConfirmed": 53,
     "trackedPotential": 0,
     "players": 20
   },
@@ -6593,12 +6593,12 @@
       "venue": "hardrock",
       "status": "placeholder",
       "homeTeam": {
-        "id": "",
-        "code": "",
-        "name": "L101",
-        "nameZh": "L101",
-        "group": "",
-        "placeholder": true
+        "id": "fra",
+        "code": "FRA",
+        "name": "France",
+        "nameZh": "法国",
+        "group": "I",
+        "placeholder": false
       },
       "awayTeam": {
         "id": "",
@@ -6612,11 +6612,37 @@
       "apiId": null,
       "url": "",
       "fallbackSource": "openfootball",
-      "homePlayers": [],
+      "homePlayers": [
+        {
+          "id": "rayan-cherki",
+          "name": "Rayan Cherki",
+          "displayName": "切尔基",
+          "teamCode": "FRA",
+          "teamName": "France",
+          "teamNameZh": "法国",
+          "flag": "🇫🇷",
+          "position": "MF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        }
+      ],
       "awayPlayers": [],
-      "involvedPlayers": [],
+      "involvedPlayers": [
+        {
+          "id": "rayan-cherki",
+          "name": "Rayan Cherki",
+          "displayName": "切尔基",
+          "teamCode": "FRA",
+          "teamName": "France",
+          "teamNameZh": "法国",
+          "flag": "🇫🇷",
+          "position": "MF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        }
+      ],
       "potentialPlayers": [],
-      "isTracked": false,
+      "isTracked": true,
       "isPotentialTracked": false,
       "hasPlaceholder": true
     },
@@ -6631,12 +6657,12 @@
       "venue": "metlife",
       "status": "placeholder",
       "homeTeam": {
-        "id": "",
-        "code": "",
-        "name": "W101",
-        "nameZh": "W101",
-        "group": "",
-        "placeholder": true
+        "id": "esp",
+        "code": "ESP",
+        "name": "Spain",
+        "nameZh": "西班牙",
+        "group": "H",
+        "placeholder": false
       },
       "awayTeam": {
         "id": "",
@@ -6650,11 +6676,37 @@
       "apiId": null,
       "url": "",
       "fallbackSource": "openfootball",
-      "homePlayers": [],
+      "homePlayers": [
+        {
+          "id": "rodri",
+          "name": "Rodri",
+          "displayName": "罗德里",
+          "teamCode": "ESP",
+          "teamName": "Spain",
+          "teamNameZh": "西班牙",
+          "flag": "🇪🇸",
+          "position": "MF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        }
+      ],
       "awayPlayers": [],
-      "involvedPlayers": [],
+      "involvedPlayers": [
+        {
+          "id": "rodri",
+          "name": "Rodri",
+          "displayName": "罗德里",
+          "teamCode": "ESP",
+          "teamName": "Spain",
+          "teamNameZh": "西班牙",
+          "flag": "🇪🇸",
+          "position": "MF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        }
+      ],
       "potentialPlayers": [],
-      "isTracked": false,
+      "isTracked": true,
       "isPotentialTracked": false,
       "hasPlaceholder": true
     }
