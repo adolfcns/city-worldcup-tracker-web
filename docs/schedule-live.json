@@ -1,6 +1,6 @@
 {
-  "cachedAt": 1784149057449,
-  "generatedAt": "2026-07-15T20:57:37.449Z",
+  "cachedAt": 1784152357609,
+  "generatedAt": "2026-07-15T21:52:37.609Z",
   "cacheHit": false,
   "sources": [
     {
@@ -6601,12 +6601,12 @@
         "placeholder": false
       },
       "awayTeam": {
-        "id": "",
-        "code": "",
-        "name": "L102",
-        "nameZh": "L102",
-        "group": "",
-        "placeholder": true
+        "id": "eng",
+        "code": "ENG",
+        "name": "England",
+        "nameZh": "英格兰",
+        "group": "L",
+        "placeholder": false
       },
       "source": "GoalPulse",
       "apiId": null,
@@ -6626,7 +6626,56 @@
           "clubLabel": "曼城"
         }
       ],
-      "awayPlayers": [],
+      "awayPlayers": [
+        {
+          "id": "nico-oreilly",
+          "name": "Nico O'Reilly",
+          "displayName": "尼科-奥赖利",
+          "teamCode": "ENG",
+          "teamName": "England",
+          "teamNameZh": "英格兰",
+          "flag": "🏴",
+          "position": "DF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "john-stones",
+          "name": "John Stones",
+          "displayName": "斯通斯",
+          "teamCode": "ENG",
+          "teamName": "England",
+          "teamNameZh": "英格兰",
+          "flag": "🏴",
+          "position": "DF",
+          "clubStatus": "watched_departure",
+          "clubLabel": "离队仍关注"
+        },
+        {
+          "id": "marc-guehi",
+          "name": "Marc Guehi",
+          "displayName": "格伊",
+          "teamCode": "ENG",
+          "teamName": "England",
+          "teamNameZh": "英格兰",
+          "flag": "🏴",
+          "position": "DF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "james-trafford",
+          "name": "James Trafford",
+          "displayName": "特拉福德",
+          "teamCode": "ENG",
+          "teamName": "England",
+          "teamNameZh": "英格兰",
+          "flag": "🏴",
+          "position": "GK",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        }
+      ],
       "involvedPlayers": [
         {
           "id": "rayan-cherki",
@@ -6639,12 +6688,60 @@
           "position": "MF",
           "clubStatus": "current",
           "clubLabel": "曼城"
+        },
+        {
+          "id": "nico-oreilly",
+          "name": "Nico O'Reilly",
+          "displayName": "尼科-奥赖利",
+          "teamCode": "ENG",
+          "teamName": "England",
+          "teamNameZh": "英格兰",
+          "flag": "🏴",
+          "position": "DF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "john-stones",
+          "name": "John Stones",
+          "displayName": "斯通斯",
+          "teamCode": "ENG",
+          "teamName": "England",
+          "teamNameZh": "英格兰",
+          "flag": "🏴",
+          "position": "DF",
+          "clubStatus": "watched_departure",
+          "clubLabel": "离队仍关注"
+        },
+        {
+          "id": "marc-guehi",
+          "name": "Marc Guehi",
+          "displayName": "格伊",
+          "teamCode": "ENG",
+          "teamName": "England",
+          "teamNameZh": "英格兰",
+          "flag": "🏴",
+          "position": "DF",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
+        },
+        {
+          "id": "james-trafford",
+          "name": "James Trafford",
+          "displayName": "特拉福德",
+          "teamCode": "ENG",
+          "teamName": "England",
+          "teamNameZh": "英格兰",
+          "flag": "🏴",
+          "position": "GK",
+          "clubStatus": "current",
+          "clubLabel": "曼城"
         }
       ],
       "potentialPlayers": [],
       "isTracked": true,
       "isPotentialTracked": false,
-      "hasPlaceholder": true
+      "hasPlaceholder": false
     },
     {
       "id": "m104",
@@ -6665,12 +6762,12 @@
         "placeholder": false
       },
       "awayTeam": {
-        "id": "",
-        "code": "",
-        "name": "W102",
-        "nameZh": "W102",
-        "group": "",
-        "placeholder": true
+        "id": "arg",
+        "code": "ARG",
+        "name": "Argentina",
+        "nameZh": "阿根廷",
+        "group": "J",
+        "placeholder": false
       },
       "source": "GoalPulse",
       "apiId": null,
@@ -6708,7 +6805,7 @@
       "potentialPlayers": [],
       "isTracked": true,
       "isPotentialTracked": false,
-      "hasPlaceholder": true
+      "hasPlaceholder": false
     }
   ]
 }
